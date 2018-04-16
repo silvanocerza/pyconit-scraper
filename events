@@ -1,0 +1,1704 @@
+[
+    {
+        "desc": "",
+        "end": 1524133800.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524130200.0,
+        "summary": "Registrazione workshops per Insegnanti",
+        "track": "TeachersOne",
+        "uid": "https://www.pycon.it/p3/event/2179"
+    },
+    {
+        "desc": "",
+        "end": 1524133800.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524130200.0,
+        "summary": "Beginners' Workshop: Registration",
+        "track": "Beginner's Workshop",
+        "uid": "https://www.pycon.it/p3/event/2163"
+    },
+    {
+        "desc": "\nIl linguaggio Python, versatile e ordinato, ha una curva di apprendimen to relativamente poco ripida e pu\u00f2 essere utilizzato come supporto alla didattica della matematica nelle scuole superiori.\u00a0\nIn questo tutorial proporr\u00f2 lo sviluppo di laboratori didattici con relative verifiche per alcune unit\u00e0 didattiche; in particolare:\u00a0\n\nInsiemi e logica\nMonomi e polinomi\nFrazioni algebriche\nGeometria cartesiana (punti, rette, circonferenze)\nConiche\nSistemi di equazioni lineari\nStudio di funzione (derivate, limiti)\n\nIl tutorial \u00e8 rivolto a tutti i docenti (o aspiranti docenti) e studenti delle Scuole Superiori, ma anche a chi vuole imparare le libreire e i moduli\u00a0che Python mette a disposizione per calcoli geometrici e matematici.\u00a0\nNon \u00e8 richiesta la conoscenza del linguaggio Python come prerequisito, ma solo una minima esperienza di programmazione. Ogni pacchetto python necessario al tutorial sar\u00e0 presentato prima del suo utilizzo.\nLa partecipazione\u00a0\u00e8 completamente gratuita e la registrazione\u00a0obbligatioria tramite\u00a0questo \u00e8\u00a0link.\nMi raccomando, portate il vostro pc e partecipate numerosi!\n",
+        "end": 1524148200.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524133800.0,
+        "summary": "<h3>Insegnare la matematica con Python: laboratori didattici e verifiche per le Scuole Superiori [D. Poggiali]</h3>",
+        "track": "TeachersOne",
+        "uid": "https://www.pycon.it/p3/event/2178"
+    },
+    {
+        "desc": "\nDopo il successo del workshop durante Pycon Otto, \nsiamo felici di annunciare che Gioved\u00ec 19 Aprile PyCon Nove ospiter\u00e0 di nuovo il Beginners' Day, una sessione che abbiamo esplicitamente creato per i neofiti della programmazione con Python\nSe stai pensando di venire alla conferenza ma sei un principiante di Python, questa potrebbe essere una occasione per te\ud83d\ude00.\nAlternativamente: \nnon sei un principiante di Python\ud83d\udc0d, ma vuoi semplicemente estendere le tue abilit\u00e0 e conoscenze su un argomento specifico (es. Programmazione avanzata in Python, Programmazione Web con Python, Python per il Data Science), potrebbe comunque essere una occasione interessante per te.\nSia che tu sia a digiuno di programmazione, che tu conosca un'altro linguaggio, questa sessione di tre ore che avverr\u00e0 nel primo giorno della conferenza potr\u00e0 darti un panorama su Python e sull'ecosistema che lo circonda, dandoti il contesto tecnico necessario per poter seguire il resto della conferenza.\n\nRegistrazione\u270d\ufe0f\nAbbiamo bisogno di avere una idea dei partecipanti a questa sessione, quindi se sei interessato a partecipare per favore registrati gratuitamente sull'evento Eventbrite\nCondividi le tue preferenze\nPer orgainzzare meglio materiali, contenuti e mentor per favore condivideteci le vostre aspettative e preferenze per questo workshop riempiendo il nostro \nBeginners' Day Google form.\nContenuti su richiesta\nIl workshop verr\u00e0 presentato in Italiano o in Inglese (a seconda delle preferenze dei partecipanti).\nPer favore porta il tuo laptop, dato che una buona parte del workshop sar\u00e0 mirata ad imparare a praticare Python col tuo PC.\nLa sessione includer\u00e0:\nUna introduzione di alto livello a Python ed alla programmazione in generale. \nUna sessione autogestita di apprendimento, con tutorial specifici per principianti totali e per programmatori pi\u00f9 esperti, accompagnata dai coach che saranno presenti per rispondere alle tue domande e per aiutarti quando ti blocchi. Impara alla tua velocit\u00e0!\nUna sessione sull'ecosistema Python -- ampia introduzione al mondo di Python: qualche argomento e frammenti di gergo che sicuramente capiter\u00e0 di usare: open source, software libero, github, pacchetti, pip, pypi, computazione scientifica, scipy, numpy, pandas, ipython notebook, web frameworks, django, flask, asyncio, il BDFL, lo Zen di Python, etc etc. Scopri quali sono gli strumenti, le aree di interesse, i modi di dire, le persone interessanti..\n\"Come ricavare il meglio dalla conferenza\" - talk raccomandati, cosa fare nelle pause pranzo o nelle sere durante la conferenza, consigli su quando e come fare domande (suggerimento: pi\u00f9 spesso possibile!), cos'\u00e8 un \"open space\", ed ancora di pi\u00f9.\nMateriale\nIl materiale presentato durante questo workshop verr\u00e0 pubblicato il prima possibile. Tieni gli occhi aperti!\nFare il Mentor @ Beginner's Day\nSe sei interessato ad aiutare come Mentor, per favore leggi le nostre Linee Guida e poi riempi questo Google Form\n",
+        "end": 1524151800.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524133800.0,
+        "summary": "<h3>Beginners' Workshop</h3>",
+        "track": "Beginner's Workshop",
+        "uid": "https://www.pycon.it/p3/event/2162"
+    },
+    {
+        "desc": "",
+        "end": 1524139200.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524135600.0,
+        "summary": "Registrazione",
+        "track": "CoderDojo",
+        "uid": "https://www.pycon.it/p3/event/2224"
+    },
+    {
+        "desc": "",
+        "end": 1524146400.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524139200.0,
+        "summary": "CoderDojo",
+        "track": "CoderDojo",
+        "uid": "https://www.pycon.it/p3/event/2225"
+    },
+    {
+        "desc": "",
+        "end": 1524155400.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524151800.0,
+        "summary": "Python Italia Yearly Meeting",
+        "track": "Beginner's Workshop",
+        "uid": "https://www.pycon.it/p3/event/2164"
+    },
+    {
+        "desc": "",
+        "end": 1524199500.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524196800.0,
+        "summary": "Registration",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2053"
+    },
+    {
+        "desc": "",
+        "end": 1524200400.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524199500.0,
+        "summary": "Welcome and Conference Opening",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2056"
+    },
+    {
+        "desc": "\nI\u2019m not gonna go Deepak Chopra on you\u200a\u2014\u200afor a second what would happen if you had the chance to start your career all over again. if you had a chance to you do all the things that you\u2019ve done and imagine what you would change.\nSpecifically, I want you to imagine that you don\u2019t have all the time that you\u2019ve had so far, you have way less time than you\u2019ve had so far. Imagine what you would do and what you would change. I\u2019ll give you just like a couple of seconds to go through that.\nThis topic is a bit hard for me as it covers some of the things I\u2019ve gone through in my career that made me feel like an idiot when they happened. With time, I\u2019ve realized that these are the things that have taken me where I\u2019m at and I hope they will be useful to you as they were for me. I don\u2019t intend to look smart but rather be honest, as honest as I can be about my past so that you can, perhaps, start ahead.\n\n",
+        "end": 1524203100.0,
+        "speakers": [
+            "Flavio Percoco"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/flavio-percoco-1"
+        ],
+        "start": 1524200400.0,
+        "summary": "Don\u00e2\u0080\u0099t try to look smart, be smart!",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2216"
+    },
+    {
+        "desc": "\nIn today\u2019s fast-paced world, change is becoming more of a necessity than a luxury. And yet, many of us, understandably, still have a love-hate relationship with change. How comfortable is your comfort zone? Should you take that step onto new, unknown territory? Once you do, can you convince others to do the same? Learning how to answer questions like these is crucial, if we want to truly innovate in our jobs, communities, and lives. In this talk, I\u2019d like to share some of the lessons that I learned about inducing and managing change, both in myself and in groups I\u2019ve worked with as a documentation writer, Agile scrum master, community manager, and diversity advocate. Magic solutions are not guaranteed, healthy discussions are encouraged.\n\n",
+        "end": 1524205800.0,
+        "speakers": [
+            "Mikey Ariel"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/-957"
+        ],
+        "start": 1524203100.0,
+        "summary": "Can we make the light bulb want to change?",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2219"
+    },
+    {
+        "desc": "",
+        "end": 1524207600.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524205800.0,
+        "summary": "Coffee Break",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2054"
+    },
+    {
+        "desc": "\nTest Driven Development is a well known practice in software development. However, passing from knowing the principles of TDD to applying them in real world situations is not straightforward: the aim of this talk is to help the audience to fill the gap and apply TDD effectively in Python. The talk will include:\n\na brief overview of most popular tools and libraries (e.g. unittest, pytest, nose, tox)\nuseful design patterns\ncommon mistakes and how to avoid them\nsome real life example taken from the projects the author has worked on in the past 15 years (including PyPy, pdb++, capnpy)\n\nThis talk is primarily aimed at beginners.\n\n",
+        "end": 1524210300.0,
+        "speakers": [
+            "Antonio Cuni"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/antonio-cuni"
+        ],
+        "start": 1524207600.0,
+        "summary": "The practice of TDD: tips&tricks",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2083"
+    },
+    {
+        "desc": "\nOggi nel web tutti hanno un sito o un blog che aggiornano e mantengono con articoli e informazioni di vario genere ed esistono svariate piattaforme per siti web dinamici.\nQui invece si parla del contrario, di come mantenere un sito statico, pi\u00f9 performante e che risulta anche pi\u00f9 economico e rilassante da mantenere, integrandolo con tecnologie come i Jupyter Notebook e Git per ottenere una completa interazione con le tecnologie pi\u00f9 moderne e usate. Verranno anche presentati un paio di casi d\u2019uso di Pelican in situazioni reali.\nCome prerequisiti si assume che l\u2019ascoltatore sappia cosa sia un CMS e (a grandi linee) come funziona e cosa sia un Jupyter Notebook (non \u00e8 necessario che sappia usarne uno)- \n\n",
+        "end": 1524210300.0,
+        "speakers": [
+            "Matteo Scarpa"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/matteo-scarpa"
+        ],
+        "start": 1524207600.0,
+        "summary": "Pelican e perch\u00c3\u00a8 generare siti statici",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2076"
+    },
+    {
+        "desc": "\nThis talk aims to answer a few questions:\n\nWhat do you do when you need to move your model from your laptop to production?\nIs big data == I need to use JVM the right assumption?\nHow can I put my jupyter notebook in production?\nHow do you apply the best software engineering practices (testing and ci for example) inside your data science process?\nHow do you \u201cdecouple\u201d your data scientists, developers and devops teams?\nHow do you guarantee the reproducibility of your models?\nHow do you scale your training process when does not fit in memory anymore?\nHow do you serve your models and provide an easy rollback system?\n\nThe Agenda:\n\nThe Data Science workflow\nScaling is not just a matter of the size of your Data\nScaling when the size of your Data matters\nDDS, Dockerized Data Science\nCassiny\n\nI\u2019ll share my experience highlighting some of the challenges I faced and the solutions I came up to answer these questions.\nDuring this presentation I will mention libraries like jupyter, atom, scikit-learn, dask, ray, parquet, arrow and many others.\nThe principles and best practices I will share are something that you can apply, more or less easily, if you are running or in the process to run a production system based on the Python stack.\nThis talk will focus on (my) best practices to run the Python Data stack together and I will also talk about Cassiny, an open source project I started, that aims to simplify your life if you want to use a completely Python based solution in your data science workflow.\n\n",
+        "end": 1524210300.0,
+        "speakers": [
+            "Christian Barra"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/christian-barra"
+        ],
+        "start": 1524207600.0,
+        "summary": "Scaling your Data infrastructure",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2068"
+    },
+    {
+        "desc": "\nL\u2019evoluzione nel campo dell\u2019informatica sta rendendo obsoleti moltissimi applicativi \ndesktop sviluppati negli ultimi anni. Lo sviluppatore che deve aggiornare il proprio\nlavoro deve quindi decidere la tecnologia migliore, impararla e procedere alla conversione\nsia delle procedure (replicando in web il funzionamento che aveva in desktop)  sia dei dati.\nNel talk vi racconteremo la nostra esperienza, del perch\u00e8 abbiamo scelto Python e Genropy e dei risultati che abbiamo ottenuto in poco tempo.\nIn particolare vedremo a titolo di esempio un applicativo per la gestione del personale, uno per la gestione delle assemblee ed uno per la gestione di un economato.\n\n",
+        "end": 1524210300.0,
+        "speakers": [
+            "Luigi Renna"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/luigi-renna"
+        ],
+        "start": 1524207600.0,
+        "summary": "Da applicativi Desktop a Web",
+        "track": "PyBusiness",
+        "uid": "https://www.pycon.it/p3/event/2097"
+    },
+    {
+        "desc": "\nQuesto talk parla di amore.\nDella combinazione perfetta fra PostgreSQL e Python.\nPostgreSQL \u00e9 il database scelto di default da molti sviluppatori Python, perch\u00e9 \u00e9 robusto, stabile e open source. \nNoi di 2ndQuadrant viviamo con PostgreSQL e amiamo anche Python, usandolo il pi\u00fa possibile per progetti open source pubblici e per i progetti interni.\nVoglio condividere con voi l\u2019amore per PostgreSQL e Python mostrando come la \u201ccoppia perfetta\u201d possa lavorare in perfetta simbiosi.\n\n",
+        "end": 1524210300.0,
+        "speakers": [
+            "Giulio Calacoci"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/giulio-calacoci"
+        ],
+        "start": 1524207600.0,
+        "summary": "PostgreSQL & Python: La coppia perfetta.",
+        "track": "PyDatabase",
+        "uid": "https://www.pycon.it/p3/event/2090"
+    },
+    {
+        "desc": "\nProgramming languages evolves with the need to the developers, but not all of them evolves at the same speed and sometimes some languages stays almost the same for decades. Is this a sign of stagnation? Is it possible to evolve a language without breaking retrocompatibility?\nThis talk will cover how Python and Javascript approached the problem in a radically different way, with their pro and cons and with the consequences on the community. \nThe main points of this talk are:\n\ncomparation of the new features in both languages\nstrategies used to port or run the code on different versions of the language\nimpact of the new features and tool on the respective developer\u2019s communities\n\nThe intent is to start a constructive discussion about the retrocompatility in Python.\nFor this talk you don\u2019t need to have a deep knowledge of Python or Javascript.\n\n",
+        "end": 1524213000.0,
+        "speakers": [
+            "Daniele Esposti"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/-887"
+        ],
+        "start": 1524210300.0,
+        "summary": "Evolution or stagnation programming languages",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2084"
+    },
+    {
+        "desc": "\nAbstract\nOpenShift Origin \u00e8 la Platform-as-a-Service opensource di riferimento. Basata su Kubernetes e Docker, contiene features aggiuntive e integrazioni con altri componenti che semplificano le pratiche di DevOps.\nDopo una breve introduzione ad Openshift ed alla sua architettura, vedremo come:\n\nfare il setup di infrastrutture applicative microservice-based (es. microservizi Python Flask/Django, single page application Angular, ecc\u2026)\ncreare una piattaforma di Continuous Integration e Continuous Delivery\nimplementare e gestire la CI/CD di microservice-based application sfruttando l\u2019integrazione con Git e Jenkins\n\nAgenda\n\narchitettura di base di OpenShift\ncome costruire un project OpenShift: builds e deployments\nautomatizzare il setup mediante template\nutilizzare Git, Jenkins e Openshift per creare una semplice pipeline di CI/CD\nstrategie di deployment avanzate: blue-green deployment, A/B deployment\n\nPrerequisiti\n\nconoscenza base di Git e Jenkins\nconoscenza base dei concetti CI/CD e DevOps\n\n\n",
+        "end": 1524213000.0,
+        "speakers": [
+            "Francesco Fiore"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/francesco-fiore"
+        ],
+        "start": 1524210300.0,
+        "summary": "DevOps di applicazioni Python (e non solo) su OpenShift",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2077"
+    },
+    {
+        "desc": "\nIT\nCon l\u2019avvento dell\u2019Industry 4.0 sempre pi\u00f9 linee di produzione sono in grado di generare informazioni di funzionamento ad alta frequenza.\nE\u2019 quindi possibile raccogliere ed elaborare i dati provenienti dai sensori (per es. consumi elettrici, numero di pezzi prodotti, allarmi, ecc.) per\nottimizzare i processi produttivi fino ad arrivare alla Manutenzione Predittiva. In questo talk vedremo come poter sfruttare lo stack Python per\nimplementare la pipeline di attivit\u00e0 quali Data Cleansing, Data Wrangling, Feature Engineering e Machine Learning modeling su un caso reale.\nEN\nThanks to the Industry 4.0 wave, an increasing number of production lines are able to generate high frequency operational data. It is possible\nto gather and process sensor data (e.g., power consumption, processed items, alerts, etc.) in order to optimize production processes and to\nrealize the so called Predictive Maintenance. In this talk we will show how we applied the Python stack to a real world scenario by implementing\ndata pipelines (i.e., Data Cleansing, Data Wrangling, Feature Engineering, and Machine Learning modeling).\n\n",
+        "end": 1524213000.0,
+        "speakers": [
+            "Gianluca Emireni",
+            "Michele Stecca"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/gianluca-emireni-1",
+            "https://www.pycon.it//conference/p/michele-stecca"
+        ],
+        "start": 1524210300.0,
+        "summary": "Python & Industry 4.0: a real world case",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2196"
+    },
+    {
+        "desc": "\nGenropy \u00e8 ormai un framework maturo col quale sono stati scritti molti gestionali\nche funzionano con piena soddisfazione di clienti e utenti.\nNel corso degli ultimi due anni \u00e8 stato realizzato in particolare il gestionale ERPY\nche usato con successo per gli adempimenti fiscali ma anche per fornire alla direzione\nstrumenti di analisi e di controllo facilmente consultabili.\nA tal fine sono state implementate direttamente come funzionalit\u00e0 base del framework\nstrumenti di interrogazione e di business intelligence che sono a disposizione \ndi qualsiasi gestionale scritto in genropy.\nNel corso del talk verranno mostrate le funzionalit\u00e0 base di Genropy con particolare attenzione alle nuove funzionalit\u00e0 introdotte tra cui:\n\nIntegrazione con Pandas per creare in pochi minuti viste e grafici dei dati aziendali con la possibilit\u00e0 di salvarli e di essere eseguiti in momenti successivi e/o programmati. \nCostruzione di dashboard per mostrare in forma grafica e tabellare i vari aspetti della realt\u00e0 aziendale.\n\n\n",
+        "end": 1524213000.0,
+        "speakers": [
+            "Francesco Porcari"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/francesco-porcari-1"
+        ],
+        "start": 1524210300.0,
+        "summary": "Business Intelligence con Genropy",
+        "track": "PyBusiness",
+        "uid": "https://www.pycon.it/p3/event/2184"
+    },
+    {
+        "desc": "\nEvery time we are dealing with data coming from the real world, big and not so big, you know that usually 80% of the time is needed to clean, prepare and arrange them. We can then spend the other 20% of the time enjoying our beloved data analysis. \nThe thing that you may know less is that in the last years, the Neo4j graph database went into the light of being the \u201cright\u201d place to store data, thanks to its capacity of direct modelling relations among data, its high availability and its easy, fast and clean query language Cypher.\nIn this talk I\u2019m going to show you some tips to set up in the right way your data using Pandas, in order to proper model and import them into Neo4j. A Neo4j Python driver is available to easily import Cypher queries embedded in Python code. Still, the py2neo package allows building and querying your database right within your favourite snake command line.\nForget about \u201ctall as teen\u201d SQL queries here; thanks to Pandas, Python and Cypher modelling, loading and query your database is going to be really straightforward. After this talk, you\u2019ll can\u2019t wait to give Neo4j a try!\nPrerequisite: a little knowledge of Pandas.\n\n",
+        "end": 1524213000.0,
+        "speakers": [
+            "Fabio Lamanna"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/fabio-lamanna-1"
+        ],
+        "start": 1524210300.0,
+        "summary": "Unveiling the potential of graph databases with Python and Neo4j",
+        "track": "PyDatabase",
+        "uid": "https://www.pycon.it/p3/event/2092"
+    },
+    {
+        "desc": "\nSecurity is hard, yet vital for any software these days. After all you don\u2019t want to become the laughing stock on hacker news or cause your company to loose billions in shareholder value. This talk won\u2019t turn you into a security specialist over night, but you will learn how to avoid common mistakes in your daily work as developer or administrator. I\u2019m going to take you on a brief tour in secure software design, illustrate various attack vectors, and point you to helpful tools and resources. Topics include threat analysis, deployment, parsing, authentication, TLS/SSL, crypto, and user interaction, with some real life examples from my daily work.\nNote\nThe talk will be an extended version of my PyCon UK 2017 and DevConf.CZ 2018 info sec talk. Slides are recordings of my PyCon UK talk are available at https://speakerdeck.com/tiran/pycon-uk-2017-everyday-security-issues-and-how-to-avoid-them .\n\n",
+        "end": 1524215700.0,
+        "speakers": [
+            "Christian Heimes"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/christian-heimes"
+        ],
+        "start": 1524213000.0,
+        "summary": "Everyday security issues and how to avoid them",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2085"
+    },
+    {
+        "desc": "\nIn questo talk saranno illustrati processi e workflow tipici dei paradigmi del DevOp e delle metodologie Agile. Vedremo quali accorgimenti devono essere presi con le applicazioni pacchettizzate con Docker, in particolare le applicazioni Django e come evitare le problematiche principali che portano frustrazione e impediscono un\u2019adozione reale della CI/CD.\nSaranno presentati degli esempi pratici workflow implementati con successo, in modo snello, versionato e ripetibile, in ambienti che vanno dal test fino alla produzione.\nIn ultimo faremo una carrellata dei sistemi di PaaS pi\u00f9 in voga del momento concentrandoci quindi su Dokku e Kubernetes, che coprono tutto il ventaglio delle necessit\u00e0 di deploy, dal piccolo sito fino al sistema ultra scalabile e ridondato.\nPrerequisito per il talk \u00e8 conoscere i concetti base di Docker e dell\u2019uso di git. Durante il talk con 3 distinti esempi e demo di complessit\u00e0 crescente  esploreremo il mondo della CI/CD.\n\n",
+        "end": 1524215700.0,
+        "speakers": [
+            "Claudio Mignanti"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/claudio-mignanti-1"
+        ],
+        "start": 1524213000.0,
+        "summary": "PaaS per tutti i gusti: CI/CD sotto controllo con Kubernetes e Dokku",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2078"
+    },
+    {
+        "desc": "\nAvete sentito parlare di Deep Learning ma credete che la teoria alla base sia troppo complessa? Non avete una laurea in matematica e statistica e pensate che il machine learning non faccia per voi? Niente paura: avrete solo bisogno di una conoscenze di base di Python.\nConoscete la regola dell\u201980/20? Con il 20% delle conoscenze potete raggiungere l\u201980% dei risultati: in questo talk vi mostrer\u00f2 in modo pratico tramite delle demo - alcuni trucchi per costruire dei buoni modelli predittivi, evitando di perdere (tanto) tempo nella scelta dei tools e delle librerie necessarie al vostro scopo.\nL\u2019obbiettivo \u00e8 fornirvi le basi pratiche con cui scegliere un modello di rete neurale, farne training e ottimizzarlo nel modo pi\u00f9 adatto alla tipologia del problema che dovete affrontare.\nAgenda:\n- Introduzione al Deep Learning\n- Un esempio di training senza scrivere codice\n- Sviluppare, testare e ottimizzare un modello reale\n- Considerazioni finali\n\n",
+        "end": 1524215700.0,
+        "speakers": [
+            "Gianluca Carucci"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/gianluca-carucci"
+        ],
+        "start": 1524213000.0,
+        "summary": "Deep Learning from zero to hero",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2188"
+    },
+    {
+        "desc": "\nNexmo recently decided to refactor our Python client library to be Python 3-only. Learn why we made this decision, the advantages (and disadvantages) that come along with it, and how we\u2019re monitoring and helping our users with the migration.\nSince Python 3.4, Python has jumped forward, adding many features that are not available in Python 2.7. Maintaining Python 2 compatibility means either avoiding these new language features or using backport libraries that provide an approximation. Neither provided the best experience for our users.\nIn this talk, we\u2019ll also discuss how we support users of our legacy library, the benefits that the new library offers, and our experience of developing a customer-facing Python library with the latest Python language and core library.\n\n",
+        "end": 1524215700.0,
+        "speakers": [
+            "Mark Smith",
+            "Aaron Bassett"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/mark-smith",
+            "https://www.pycon.it//conference/p/-812"
+        ],
+        "start": 1524213000.0,
+        "summary": "When the __future__ becomes the present; Dropping Python 2 support in a commercial client",
+        "track": "PyBusiness",
+        "uid": "https://www.pycon.it/p3/event/2211"
+    },
+    {
+        "desc": "\nMySQL \u00e8 uno dei database SQL pi\u00f9 conosciuti e tra i pi\u00f9 utilizzati, grazie alla sua semplicit\u00e0 e gratuit\u00e0.\nMa \u201csemplice\u201d non \u00e8 sinonimo di \u201cbanale\u201d e la nuova versione MySQL 8 permette di scegliere tra il rigore SQL, la semplicit\u00e0 e la flessibilit\u00e0 del modello Document Store o di tutti e due.\nIn questa sessione verr\u00e0 fatta una panoramica delle novit\u00e0 di MySQL 8:\n\nuna nuova architettura ancora pi\u00f9 affidabile\nopzioni per gli sviluppatori (es. Docker, CTE, Windows Functions, GIS\u2026)\ninterfaccia CRUD per Document Store (come usare MySQL senza una riga di codice SQL)\nalta disponibilit\u00e0 semplice da configurare e senza modificare le applicazioni (con Group Replication e InnoDB Cluster, introdotti con MySQL 5.7)\n\nSar\u00e0 richiesta una conoscenza base di MySQL (o dei database) e della programmazione SQL.\n\n",
+        "end": 1524215700.0,
+        "speakers": [
+            "Marco Carlessi"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/marco-carlessi"
+        ],
+        "start": 1524213000.0,
+        "summary": "MySQL 8: un database SQL/NoSQL semplice da usare",
+        "track": "PyDatabase",
+        "uid": "https://www.pycon.it/p3/event/2183"
+    },
+    {
+        "desc": "",
+        "end": 1524220200.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524215700.0,
+        "summary": "Lunch",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2055"
+    },
+    {
+        "desc": "\nI casi d\u2019uso di Elasticsearch sono molti e non \u00e8 sempre facile capire le potenzialit\u00e0 di questa soluzione.\nAbbiamo quindi deciso di mostrare esempi pratici in contesti anche molto diversi fra loro, per dare spunti concreti su come \u00e8 possibile sfruttare lo Stack Elastic\nDi seguito un elenco non esaustivo dei contesti applicativi:\n- Search applicativo e web\n- Thread security analysis\n- Gestione e Analisi log\n- Time series analysis su metriche\n- Geosearch\n- Semantic Search\n- APM\n- Graph analysis\nFaremo anche vedere come implementare soluzioni di Machine Learning e IoT, integrando ES con altri componenti Opensource \nNon sono richieste competenze pregresse se non una conoscenza base di Python\n\n",
+        "end": 1524222900.0,
+        "speakers": [
+            "Stefano Pampaloni"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/stefano-pampaloni"
+        ],
+        "start": 1524220200.0,
+        "summary": "Elastic by examples  ==>  Tutto (o quasi) quello che \u00c3\u00a8 possibile fare con ElasticSearch&Phyton",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2212"
+    },
+    {
+        "desc": "\nSince the introduction of Channels, real time web has become much easier to work with in Django. It\u2019s now possible to build real time applications with much less effort in managing the idiosyncrasies of the async programming and a lot of batteries are included. Starting with a brief introduction to Channels, we will see how to build a real time application, both on the Django and the frontend side and how easy it\u2019s to start experimenting with it. The talk has a very hands-on approach, to allow the attendees to experiment with the proposed solution and approach and starting immediately building their own real time applications with Django.\n\n",
+        "end": 1524222900.0,
+        "speakers": [
+            "Iacopo Spalletti"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/iacopo-spalletti-1"
+        ],
+        "start": 1524220200.0,
+        "summary": "Building real time applications with Django",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2079"
+    },
+    {
+        "desc": "\nAbstract: Tutorial for Python Data Scientists on Training Set Building using Active Learning Algorithms.\nThis talk explores the use of active learning techniques using \u201clibact\u201d library in populating the training set in a texts classification scenario.\nI will explain how different active learning strategies work for some text classification models.\nAfterwards, I will show a case study to compare performances of different active learning strategies, as well as to show how the active learning approach works from scratches to build the training set.\nKind of audience: Data Scientists.\nKnowledge required: Basic knowledge of python and machine learning (supervised learning)\n\n",
+        "end": 1524222900.0,
+        "speakers": [
+            "Valerio Nicosia"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/valerio-nicosia"
+        ],
+        "start": 1524220200.0,
+        "summary": "Active Learning for Training Set Building",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2226"
+    },
+    {
+        "desc": "\nL\u2019istituto di ricerca farmacologica Mario Negri [1] \u00e8 una fondazione no profit  famosa in Italia e nel mondo per l\u2019attivit\u00e0 di ricerca in campo farmacologico svolta da oltre 700 ricercatori.\nRecentemente l\u2019Istituto si \u00e8 trovato nella necessit\u00e0 di sostituire il vecchio applicativo gestionale e al contempo di integrare vari sottosistemi dedicati alla gestione dei progetti, al coordinamento, all\u2019analisi dei costi che erano cresciuti in modo non integrato e coerente con la contabilit\u00e0.\nLa scelta \u00e8 caduta, per la parte contabile vera e propria su Erpy, il gestionale italiano basato su Genropy mentre per le altre procedure \u00e8 stato deciso di procedere ad un\u2019integrazione e riscrittura in Genropy in modo da ottenere un\u2019integrazione completa offrendo un\u2019interfaccia coerente e affidabile.\nNel talk vi racconteremo l\u2019esperienza fatta e i problemi affrontati e di come python abbia dimostrato anche in questa occasione di essere un linguaggio perfettamente adatto per i gestionali. \n\n",
+        "end": 1524222900.0,
+        "speakers": [
+            "Giovanni Porcari"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/giovanni-porcari"
+        ],
+        "start": 1524220200.0,
+        "summary": "Anche la ricerca farmacologica ha bisogno di gestionali",
+        "track": "PyBusiness",
+        "uid": "https://www.pycon.it/p3/event/2098"
+    },
+    {
+        "desc": "\nIl 25 maggio 2018 la GDPR diventer\u00e0 legge per tutte le aziende che trattano dati sensibili di cittadini europei, a prescindere dalla nazionalit\u00e0 o dalle leggi locali: in pratica tutte le aziende private italiane, nessuna esclusa.\nQuesta presentazione \u00e8 quindi dedicata a chi si occupa di sicurezza e che dovr\u00e0 fare i conti con questa normativa, ma non da un punto di vista legale, bens\u00ec tecnico: come posso aderire alle richieste se uso il database MySQL?\nQuindi dopo un breve introduzione alla GDPR, ci concentreremo su come MySQL possa soddisfarne le richieste (con riferimento ai vari articoli) cos\u00ec da fornire la conoscenza che permetta di scegliere le strategie migliori per il proprio business.\nQuesta sessione \u00e8 indicata per chiunque lavori con MySQL. Saranno date per scontate solo le conoscenze di base dei database, ma chi ha gi\u00e0 conoscenza di MySQL potr\u00e0 apprezzarne a pieno le opzioni.\n\n",
+        "end": 1524222900.0,
+        "speakers": [
+            "Marco Carlessi"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/marco-carlessi"
+        ],
+        "start": 1524220200.0,
+        "summary": "La sicurezza dei database MySQL in ottica GDPR",
+        "track": "PyDatabase",
+        "uid": "https://www.pycon.it/p3/event/2093"
+    },
+    {
+        "desc": "\nPyTorch is one of the leading frameworks for doing deep learning in Python. With its dynamic computation graph engine, greedy execution, tapeless automatic differentiation and a JIT compiler, PyTorch makes training the latest and greatest deep learning models no harder than it should be, all while ensuring top-notch performance and seamless integration with the rest of the Python data ecosystem.\nThe training session is aimed at building a working knowledge of how to use PyTorch to write deep learning models and train them successfully, starting from scratch. Introductory working knowledge of Python will be required, some NumPy and a general idea on deep learning will help. We will first introduce the tool as a whole, move on to how to represent various kinds of data such as images and text using tensors and learn how to solve practical tasks using popular deep neural network architectures.\nThe last half hour will be devoted to some of the internals. One of the strengths of PyTorch is the accessibility of its codebase, which is key to a full understanding of what\u2019s going on under the hood. We will describe how the project is structured and what it takes to extend it.\nSet up\na working conda installation is recommended\nTo speed things up, we recommend joining the tutorial with a working PyTorch installation. You can look up installation instructions on pytorch.org, or read the following:\n1) Install conda and then PyTorch:\nStep 1: follow instructions on https://conda.io/miniconda.html, or run\ncurl -L mini.conda.ml | bash\nin a terminal if you\u2019re on *nix (friendly note: security folks will cringe at the one liner above)\nStep 2:\nLinux/macOS:\n- cuda 8 (or no cuda): conda install pytorch torchvision -c pytorch\n- cuda 9: conda install pytorch torchvision cuda90 -c pytorch\nWindows:\nconda install pytorch torchvision -c peterjc123\n2) PyTorch in Docker\ndocker pull pytorch/pytorch\nThis will pull the official docker image: https://hub.docker.com/r/pytorch/pytorch/\nbased on this Dockerfile: https://github.com/pytorch/pytorch/blob/master/Dockerfile\nTentative schedule\n\nPyTorch overview (20 min)\nInstalling PyTorch (10 min)\nThe world as Tensors: representing data in PyTorch (30 min)\nPyTorch modules: building our first convnet on Fashion MNIST (30 min)\nQ&A (15 min)\nLeveling up our architectures: ResNet, DenseNet (30 min)\nWorking on sequences: recurrent networks (30 min)\nA glimpse of GANs (30 min)\nQ&A (15 min)\nContributing to PyTorch (30 min)\n\n\n",
+        "end": 1524234600.0,
+        "speakers": [
+            "Daniele Ciriello",
+            "Luca Antiga",
+            "Adam Paszke"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/daniele-ciriello",
+            "https://www.pycon.it//conference/p/luca-antiga",
+            "https://www.pycon.it//conference/p/adam-paszke"
+        ],
+        "start": 1524220200.0,
+        "summary": "PyTorch from the ground up",
+        "track": "TrainingOne",
+        "uid": "https://www.pycon.it/p3/event/2102"
+    },
+    {
+        "desc": "\nThis training session will allow you to grasp of the fundamental concepts you need to solve common Computer Vision problems (Classification, Detection, and Segmentation), using state of the art Deep Neural Models, with the help of two of the most well known Machine Learning libraries, Keras and Tensorflow.\nThis talk is ideal for Python Programmers who want to have a quick and practical introduction to Computer Vision, and to be able to apply these concepts solving their own problems\nPre-requisites:\nThe participants should have a basic/intermediate knowledge of the Python language, and the main Machine Learning concepts.\nThe training itself requires bringing a notebook Jupyter Notebook along with the Keras library installed.\nSome of the tasks are computationally expensive, so a powerful notebook will reduce the training time greatly.\nStrategy:\nJupyter notebooks and sample datasets will be provided to allow a quick setup and running of the initial tasks, and at the same time allowing for free experimentation and enrichening of the models, as the training progresses.\nOutline\n\nIntro and environment setup (45 mins)\nA tour of Neural Models with Fashion MNIST (45 mins): In this section we will perform clothing classification, using a variety of models, starting from a simple Perceptron, to very advanced Convolutional Neural Networks.\nUsing the best parts (Transfer Learning for classification) (45 mins): In this section, we will use the visual knowledge stored in a state of the art Deep Neural Network, adapting it to recognize visual classes of our interest.\nDetect your own stuff (Object detection with Tensorflow Object Detection API) (45 mins): In this section, we will train an advanced lightweight Deep Neural Network, to localize objects of our interest.\nSeparate what\u2019s distinct (Object Segmentation) (30 mins): This section will allow you to detect and select elements of interest in your images.\nFinal Topics and conclusion (30 mins): In this section, we review other existing techniques, and will review how the future looks for the field of CoMputer Vision.\n\n\n",
+        "end": 1524234600.0,
+        "speakers": [
+            "Rodolfo Bonnin"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/rodolfo-bonnin"
+        ],
+        "start": 1524220200.0,
+        "summary": "Build your own CV (as in Computer Vision) with Keras and Tensorflow.",
+        "track": "TrainingTwo",
+        "uid": "https://www.pycon.it/p3/event/2199"
+    },
+    {
+        "desc": "\nPython \u00e8 presente da alcuni anni nella scuola italiana. Alcuni licei scientifici e alcuni istituti tecnici lo utilizzano come linguaggio di introduzione alla programmazione grazie alla sua immediatezza e semplicit\u00e0 sintattica, utile in una fase in cui l\u2019attenzione \u00e8 concentrata sugli algoritmi e sui fondamenti di un linguaggio di programmazione.\nIl passo successivo potrebbe essere quello di insegnare con Python anche il secondo livello classico della programmazione: la programmazione ad oggetti.\nLa programmazione di videogiochi e la libreria Pygame offrono la possibilit\u00e0 di rendere questo passaggio relativamente semplice e sicuramente interessante.\nInoltre, la possibilit\u00e0 di affrontare tematiche concrete e reali come quelle legate alla programmazione di videogiochi 2D permette di capire la \u201clogica\u201d e l\u2019importanza di un approccio object oriented. In particolare, il concetto di sprite ben si presta ad essere preso come \u201cmodello\u201d di classe.\nL\u2019intervento presenta i risultati di una sperimentazione didattica svolta presso l\u2019ITI Marconi di Verona. Il talk parte dalle basi della programmazione di videogiochi 2D (game loop, immagini, suoni, double buffering, sprite\u2026) e dei moduli principali di Pygame per arrivare a costruire un semplice ma non banale videogioco in stile \u201carcade\u201d.\n\n",
+        "end": 1524226500.0,
+        "speakers": [
+            "Maurizio Boscaini",
+            "Alessandro Marchioro"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/maurizio-boscaini",
+            "https://www.pycon.it//conference/p/alessandro-marchioro"
+        ],
+        "start": 1524222900.0,
+        "summary": "Pygame torna a scuola",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2193"
+    },
+    {
+        "desc": "\nServerless architectures refer to applications that significantly depend on \u201ccloud\u201d services (knows as Backend as a Service) or on custom code that\u2019s run in ephemeral runtime (Function as a Service or \u201cFaaS\").\nTo application developers, \u201cserverless\u201d mean app where some certain logic of it is still written by the developer but unlike traditional architectures or microservices is run in stateless compute runtime that is event-triggered, may only last for one invocation, and fully managed by a cloud.\nServerless helps developers to transfer responsibility for keeping their apps up and running as well as scaling out their workload capacity without involving DevOps/ops as we got used to.\nIn this talk we will go through whole \u201cserverless\u201d thing: from decomposing app and its logic to microservices and further to smaller bits, i.e. functions to defining data flow through functions and building their fault-tolerant pipeline. \nMoreover, we will go through a demo that highlights key takeaways:\n\nwhat are functions, what it could and could not be\nhow to design scalable architecture without getting into troubles by hitting concrete bottlenecks\nhow serverless can help scaling in/out compute capacity for data processing\n\nThe demo itself will include examples of applying serverless architecture pattern to emotion recognition app based on TensorFlow and OpenCV 3.3\n\n",
+        "end": 1524226500.0,
+        "speakers": [
+            "Denis Makogon"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/denis-makogon"
+        ],
+        "start": 1524222900.0,
+        "summary": "Applying serverless architecture pattern to distributed data processing",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2080"
+    },
+    {
+        "desc": "\n\nNot everything that counts can be counted, and not everything that can be counted counts. \n  A. Einstein\n\nHumans are routinely asked to evaluate the performance of other individuals, separating success from failure and affecting outcomes from science to education and sports. Yet, little is known about the aspects that determine the human perception of performance. How do expert reviewers, as well as ordinary people, arrive to their evaluations? To what extent these evaluations are based on objective performance features? How are they affected by subjective biases or contextual influences?\nThis talk will answer these fascinating questions focusing on soccer, the most popular sport in the world. Firstly, we will show how machine learning can accurately reproduce the mechanisms human judges use to evaluate the performance of soccer players, uncovering limits and characteristics of the human evaluation process. Second, we design  a Python package that allows, in  a completely unsupervised and data-driven way, to (i) evaluate the quality of a player\u2019s performance and (ii) rank soccer players based on their performances.\nThe first part of the talk will show how soccer ratings assigned to every player of a game by sport-specialized newspapers are associated with a high-dimensional vector of features extracted by massive data which describe any quantifiable aspects of soccer games. The talk will show how, by using Scikit-learn, we can train an artificial judge which learns the relation between technical performance and soccer ratings, hence accurately reproducing the human evaluation process. By inspecting the structure of the artificial judge, the talk will show that the human evaluation criteria follow a simplistic cognitive process based on a simple heuristic: judges first select a limited number of features which attract their attention and then rate a performance based on the presence of noticeable values, i.e., features values far from the norm that can be easily brought to mind.\nThe second part of the talk will show how to overcome the simplicity of the human evaluation process presenting PlayeRank, a Python package which implements an unsupervised data-driven framework to evaluate the performance of soccer players in the main European leagues. The talk will show how to use PlayeRank to construct a data-driven ranking of players and highlight the factors which determine why celebrated players, like Messi and Cristiano Ronaldo, actually result to be the top players in the world. The modules composing PlayeRank will be presented, showing how they allow the user to define the features characterizing a performance, to detect in an automatic way the relevance of each player\u2019s action to a game outcome, to detect the role of a player given his game data, to rate every performance as well as to obtain a final ranking of all players in Europe. A short demo will be provided during the talk through a Jupyter notebook, exploiting interactive data visualization with the Bokeh package.\nThe audience will learn how to use Python to construct evaluation algorithms entirely based on machine learning and big data, a step forward to a thorough and objective evaluation of performance which overcomes the biases and the limitations of human perception of performance. Just a basic knowledge of Python and of data mining principles is required for a full understanding of the talk.\n\n",
+        "end": 1524226500.0,
+        "speakers": [
+            "Luca Pappalardo",
+            "Paolo Cintia"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/luca-pappalardo",
+            "https://www.pycon.it//conference/p/paolo-cintia-1"
+        ],
+        "start": 1524222900.0,
+        "summary": "Sports performance evaluation: from cognitive mechanisms to data-driven algorithms",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2070"
+    },
+    {
+        "desc": "\nDurante il talk verr\u00e0 presentato Zerynth (www.zerynth.com), un software per la programmazione di microcontrollori in Python e la realizzazione di applicazioni IoT e per l\u2019Industria 4.0.\nI principali argomenti trattati saranno:\n\nPerch\u00e8 utilizzare Zerynth (e quindi Python) per programmare dispositivi IoT.\nDifferenza tra Zerynth e il Python tradizionale.\nDifferenza tra Zerynth ed altre piattaforme di programmazione \u201cembedded\u201d come \nRaspberry Pi, Micropython e Arduino.\nPanoramica delle schede elettroniche supportate e dei servizi Cloud compatibili. In particolare verr\u00e0 presentata la board 4zerobox, una delle schede elettroniche ufficialmente supportate da Zerynth, mostrandone le caratteristiche principali e le applicazioni in campo industriale.\n\nTarget ideale: sviluppatori Python, professionisti dell\u2019IoT, designers, studenti e insegnanti, makers.\nPer approfondire\nLa suite di sviluppo Zerynth \u00e8 composta da:\n\nZerynth Studio, un IDE professionale per la programmazione in Python su schede elettroniche a microcontrollore. Zerynth Studio \u00e8 free e cross-platform. Scaricabile da qui: https://www.zerynth.com/zerynth-studio/ \nZerynth Virtual Machine, un sistema operativo real-time multithreaded che fornisce una reale indipendenza dall\u2019hardware e che permette il riutilizzo del codice su qualsiasi architettura MCU.\nZerynth App, una App generica per smartphone con cui visualizzare i dati e/o controllare i dispositivi programmati con Zerynth.\n\n\n",
+        "end": 1524226500.0,
+        "speakers": [
+            "Luigi Francesco Cerfeda"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/luigi-francesco-cerfeda"
+        ],
+        "start": 1524222900.0,
+        "summary": "Introduzione a Zerynth: Python per Microcontrollori e Applicazioni IoT",
+        "track": "PyBusiness",
+        "uid": "https://www.pycon.it/p3/event/2099"
+    },
+    {
+        "desc": "\nA partire dalla versione 10, la replica logica entra nel core di PostgreSQL, permettendo di replicare dati in maniera efficiente fra nodi diversi. In questo talk vedremo come funziona questo metodo alternativo alla replica fisica, quanto sia efficiente rispetto ad altri metodi di replica e come, con qualche accorgimento, sia possibile avere lo stream delle modifiche accessibile da Python. Naturalmente daremo anche uno squardo al futuro, parlando dei miglioramenti che saranno inclusi in PostgreSQL 11.\n\n",
+        "end": 1524226500.0,
+        "speakers": [
+            "Marco Nenciarini"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/marco-nenciarini"
+        ],
+        "start": 1524222900.0,
+        "summary": "Replica logica in PostgreSQL: il futuro \u00c3\u00a8 adesso",
+        "track": "PyDatabase",
+        "uid": "https://www.pycon.it/p3/event/2094"
+    },
+    {
+        "desc": "",
+        "end": 1524228300.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524226500.0,
+        "summary": "Coffee Break",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2058"
+    },
+    {
+        "desc": "\nMy brain is different. The regions involved in concentration, impulse control, inhibition, and motor activity are smaller than usual; Like somewhere between 5% and 12% of adults I have ADHD. Even if you do not have the disorder yourself you probably work, live or know someone who does. But the world is not designed for people with ADHD, so to be successful I\u2019ve had to develop techniques to keep my concentration and procrastination in check. \n\nWhat is ADHD?\nHow can we change our workspaces to help focus\nBeing more productive without burning out\nCommunicating as a team without interrupting flow\n\n\nThis talk is not just for those people with ADHD, although they will benefit as well. It is for anyone whose job requires long bouts of focus or \u201cflow\u201d. The primary audience of the talk will be programmers, but it will also benefit team leads, product managers, and technical writers.\nThere is no specialist knowledge required to understand this talk. I do give a brief overview of the start of what ADHD is to establish context, but the talk focuses on productivity, not psychiatry.\nI hope people will leave with ideas about how they can make their workplace, their team and themselves more productive, less stressed and distracted, and ultimately more happy in their jobs.\n\n\n",
+        "end": 1524231000.0,
+        "speakers": [
+            "Aaron Bassett"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/-812"
+        ],
+        "start": 1524228300.0,
+        "summary": "When your wetware has too many threads - Tips from an ADHDer on how to improve your focus",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2088"
+    },
+    {
+        "desc": "\nIl sito web ufficiale del progetto Django ( www.djangoproject.com ) \u00e8 basato sull\u2019ultima versione stabile di Django, la documentazione del progetto \u00e8 generata con Sphinx ed i documenti generati sono poi memorizzati su PostgreSQL per essere visualizzati sul sito.\nIl modulo per la ricerca della documentazione nel sito del progetto Django \u00e8 molto utilizzato e fino a poco tempo fa era basato su Elasticsearch. L\u2019utilizzo di Elasticsearch ha causato problemi nella sincronizzazione dei dati e nell\u2019aggiornamento dei driver di connessione.\n\nIn questo talk vedremo come ho aggiornato la funzione di ricerca del sito del progetto Django utilizzando il modulo di Ricerca Full-Text di Django basato direttamente su PostgreSQL. Questo ha semplificato molto l\u2019infrastruttura e velocizzato l\u2019aggiornamento della documentazione, senza perdere nessuna delle precedenti funzioni di ricerca ma anzi migliorandole ed aggiungendone altre da tempo richieste dagli utenti.\n\nTramite questo talk potrai imparare come aggiungere una nuova funzione di Ricerca Full-Text nel tuo progetto basato su Django e PostgreSQL. In alternativa potreai imparare come  aggiornare la ricerca esistente nel tuo sito se usi Elasticsearch o motori di ricerca simili .\n\nPer una introduzione ai temi del talk puoi leggere il mio articolo sulla \"Ricerca Full-Text in Django con PostgreSQL\" basato sul mio talk presentato al PyCon Otto nel 2017.\n\n",
+        "end": 1524231000.0,
+        "speakers": [
+            "Paolo Melchiorre"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/paolo-melchiorre-1"
+        ],
+        "start": 1524228300.0,
+        "summary": "DjangoProject.com - Ricerca Full-Text con PostgreSQL",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2081"
+    },
+    {
+        "desc": "\nAbstract:\nHow to best combine the outcome of several ranked data into a single, meaningful consensus ranking is a recurrent problem in scientific data analysis. Particularly, in genome data analysis we are often bound to merge ranked data arising from separate statistical analyses. Traditional blending strategies applied in the field rely on techniques to combine statistical significance, but this approach on its own has been associated with a number of caveats. We hereto present a voting-based heuristics implemented in Python which leverages both Schulze\u2019s voting algorithm and optimization techniques to combine rankings upon credibility scores inferred from prior knowledge. This rationale can be used alongside state-of-the-art methods to systematically incorporate prior knowledge, thereby leading to more interpretable outcomes. The scope of the method is quite general and may be of use in other data analysis contexts.\nContributors:\nPresenter: Ferran Mui\u00f1os\nAuthors of the work: Ferran Mui\u00f1os, Francisco Mart\u00ednez-Jim\u00e9nez\nFocus:\nTo showcase a scientific data analysis problem arising from the study of cancer biology and how we approached it by implementing our own tool with Python.\nTarget Audience:\nThe talk aims to a broad Python audience. Minimum Python fluency is required. Acquaintance with basic notions of data analysis may be helpful to best follow the talk.\nStructure of the Talk:\n\n1) High level description of the biological data analysis problem\n2) Commonly used ranked data combination: upsides + downsides\n3) Rationale behind our solution: to optimize a voting function\n4) Describe our voting method of choice: Schulze\u2019s method\n5) How we approach the optimization problem\n6) How we organize the code\n7) A few benchmarks of our analysis\n\n\n",
+        "end": 1524231000.0,
+        "speakers": [
+            "Ferran Mui\u00f1os"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/ferran-muinos"
+        ],
+        "start": 1524228300.0,
+        "summary": "Voting-based Ranking Combination using Python",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2197"
+    },
+    {
+        "desc": "\nIl framework Odoo offre agli sviluppatori la possibilit\u00e0 di estendere Odoo per raggiungere gli obiettivi di business e (si spera) rendere Odoo pi\u00f9 adatto al flusso di lavoro aziendale.\nIn questo talk tratteremo come realizzare:\nLa struttura di base di un modulo Odoo.\nLo sviluppo di un modulo Odoo base.\nCreazione e modifica di un Report Qweb in Odoo.\n\n",
+        "end": 1524231000.0,
+        "speakers": [
+            "Eliumara L\u00f3pez",
+            "Luigi Di Naro"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/eliumara-lopez",
+            "https://www.pycon.it//conference/p/-907"
+        ],
+        "start": 1524228300.0,
+        "summary": "Usare Odoo come framework",
+        "track": "PyBusiness",
+        "uid": "https://www.pycon.it/p3/event/2100"
+    },
+    {
+        "desc": "\nAnsible is a powerful automation tool written in Python. With its modules already built for PostgreSQL, we can easily manage the most advanced open source database, making sure the configuration is exact in every detail and repeatable as many times as it is needed.\nIn this talk we will understand how Ansible works, see some of its main modules for system/cloud administration, and learn how it can be used to orchestrate PostgreSQL deployments, managing all parts of the process at ease.\n\n",
+        "end": 1524231000.0,
+        "speakers": [
+            "Rubens Souza"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/rubens-souza-1"
+        ],
+        "start": 1524228300.0,
+        "summary": "Taking care of PostgreSQL with Ansible",
+        "track": "PyDatabase",
+        "uid": "https://www.pycon.it/p3/event/2095"
+    },
+    {
+        "desc": "\nWhat do you use to write source code, docs, books or e-mails? Single brain, single pair of hands, single keyboard, but a different keyboard layout for each language and a different text editor for each purpose?\n\nDo you use an IDE to work on Python code, then switch to an e-mail client to write a message, then open a different editor to work on the documentation and finally ssh to a remote server to edit a configuration file? Do you switch languages frequently or are your colleagues named M\u00fcller, Fran\u00e7ois, Mu\u00f1oz or even \u0160ediv\u00fd?\nI\u2019ll show you how I am happily typing in several languages on a single standard US keyboard layout and why my CapsLock became so useful.\nI\u2019ll show you how I use a single editor on all my machines to produce all sorts of text, especially Python code with a few useful plugins.\nI\u2019ll show you my own plugin written in Python to hack my e-mails far beyond imagination.\n\n",
+        "end": 1524233700.0,
+        "speakers": [
+            "Miroslav \u0160ediv\u00fd"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/miroslav-sedivy"
+        ],
+        "start": 1524231000.0,
+        "summary": "Vim your Python, Python your Vim",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2089"
+    },
+    {
+        "desc": "\nIn Elasticsearch 6.1 una nuova funzionalit\u00e0 \u00e8 stata aggiunta: APM (Application Performance Monitoring).\n\u00c8 possibile monitorare diverse metriche delle nostre applicazioni da end-to-end monitoring, logging, server-level, application-level metrics a end-user-experience monitoring.\nTutte le metriche vengono automaticamente indicizzate in Elasticsearch e sono facilmente visualizzabili in Kibana con una dashboard ad-hoc.\nNel talk vedremo come monitorare le performance di un\u2019applicazione Python Flask, indicizzare le metriche in Elasticsearch e visualizzarle con una dashboard Kibana. Con poche righe di codice \u00e8 possibile monitorare le applicazioni gi\u00e0 esistenti oppure catturare messaggi generici ed eccezioni.\nSe volete sfruttare a pieno le potenzialit\u00e0 di Elasticsearch e Kibana (non solo per i log!), utilizzate il framework Flask e cercate una soluzione di APM gratuita, questo talk fa per voi. \nSi richiede una conoscenza base di Elasticsearch (l\u2019installazione e configurazione base non saranno oggetto del talk) e del framework Flask.\n\n",
+        "end": 1524233700.0,
+        "speakers": [
+            "Matteo Zuccon"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/matteo-zuccon"
+        ],
+        "start": 1524231000.0,
+        "summary": "Monitora le performance della tua applicazione Python Flask con Elasticsearch e Kibana",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2082"
+    },
+    {
+        "desc": "\nData Visualization charts are supposed to be our map to information. However, when making charts, customarily we are just re-sizing lines and circles based on metrics instead of creating data-driven version of reality.  The contemporary charting techniques have a few shortcomings (especially when dealing with high-dimensional dataset): \n\nContext Reduction: in order to fit a high-dimensional dataset into a chart one needs to filter/ aggregate/ flatten data which results in reduction of full context of information.  Without context most of the charts show only a part of the story, that can potentially lead to data misinterpretation/misunderstanding. \nNumeric Thinking: naturally humans have hard time perceiving big numbers. While data visualization is suppose to help us to conceptualize large volumes,  unless the dataset is carefully prepared, 2D charts rarely give us the intuitive grasp of magnitude. \nPerceptual de-humanization: when examining charts it is easy to forget that we are dealing with activity in real world instead of lines/bars. \n\nAugmented/Mixed Reality can potentially solve all of the issues listed above by presenting an intuitive and interactive environment for data exploration. Three dimensional space provides conditions to create complex data stories with more \u201crealistic assets\u201d (beyond lines and bars). The talk would present the architecture required to create MR data visualization story with Python (70% of architecture), starting with drawing 3D assets in a data-driven way and finishing with deployment on MR devices. \n\n",
+        "end": 1524233700.0,
+        "speakers": [
+            "Anna Nicanorova"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/anna-nicanorova"
+        ],
+        "start": 1524231000.0,
+        "summary": "Data Visualization in Mixed Reality with Python",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2191"
+    },
+    {
+        "desc": "\nSuperset \u00e8 una piattaforma Open Source di Business Intelligence incubata nel progetto Apache. Superset permette, senza scrivere una riga di codice, di creare, esplorare, visualizzare e condividere piccole o grandi quantit\u00e0 di dati.\nNel talk verr\u00e0 fatta una introduzione a Superset, mostrandone le funzionalit\u00e0. Quindi vedremo come usare questo strumento per analizzare un database di una azienda di vendita online. Partendo da un database creeremo delle visualizzazioni e quindi delle dashboard. Senza scrivere una riga di Python :)\n\n",
+        "end": 1524233700.0,
+        "speakers": [
+            "Riccardo Magliocchetti"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/riccardo-magliocchetti"
+        ],
+        "start": 1524231000.0,
+        "summary": "Come vanno gli affari? Visualizziamolo con Superset",
+        "track": "PyBusiness",
+        "uid": "https://www.pycon.it/p3/event/2091"
+    },
+    {
+        "desc": "\npg_chameleon is a lightweight replication system written in python. The tool can connect to the mysql replication protocol and replicate the data changes in PostgreSQL. \nWhether the user needs to setup a permanent replica between MySQL and PostgreSQL or perform an engine migration, pg_chamaleon is the perfect tool for the job.\nThe talk will cover the history the current implementation and the future releases.\nThere will be also a live demo.\nThe audience will learn   how to setup a replica from MySQL to PostgreSQL in few easy steps. There will be also a coverage on the lessons learned during the tool\u2019s development cycle.\n\n",
+        "end": 1524233700.0,
+        "speakers": [
+            "Federico Campoli"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/federico-campoli"
+        ],
+        "start": 1524231000.0,
+        "summary": "pg_chameleon MySQL to PostgreSQL replica made easy",
+        "track": "PyDatabase",
+        "uid": "https://www.pycon.it/p3/event/2096"
+    },
+    {
+        "desc": "",
+        "end": 1524236400.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524233700.0,
+        "summary": "Lightning Talks",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2075"
+    },
+    {
+        "desc": "",
+        "end": 1524236400.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524233700.0,
+        "summary": "Lightning Talks",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2167"
+    },
+    {
+        "desc": "",
+        "end": 1524236400.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524233700.0,
+        "summary": "Lightning Talks",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2166"
+    },
+    {
+        "desc": "\nData Beers is an open and non-profit European community whose mission is to create meeting places for professionals, students and data lecturers in a relaxed and informal atmosphere that fosters the exchange of opinions and netwoking.\nThe spirit of the events that it promotes is to give the possibility to enthusiasts, geeks and professionals of the data to tell what they have discovered on a database at their disposal, as they have used a certain API, as they have used data in a \"smart\" way to solve a problem, what they discovered by analyzing twitter etc etc in various areas: social, economic, scientific, artistic ... or for simple fun :-)\n\nDatabeers Tuscany, in collaboration with DataBeers Turin, Venice, Milan, Madrid, London, .... and PyData Italy, will organize an event inside PyCon Nove, the Italian conference that every year enrolls hundreds of Python Lover in\u00a0Florence.\nThis time you can attend the presentation of 8 Data Cases of 12 minutes each (8 minutes of presentation + 4 minutes Q/A) from all the chapter organizers. And if you do not love math or statistics do not worry ... in the presentations the use of formulas is forbidden\u00a0;-).\nHere the DataBeersX program:\n\nh 7.00pm: check-in\n\nh 7.30pm: Welcome and talk presentation\n\nh 9.30pm: Networking and Chatting\nRegister here for free\nIf you wish to submit a Data Case, please write to databeers.tuscany [\\ at] gmail.com.\nSee you at the next DataBeers!\nIn the meantime, follow us on twitter, join our facebook\u00a0group and take part in our conversations\nAny questions? Contact\u00a0DataBeers Tuscany\n",
+        "end": 1524245400.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524236400.0,
+        "summary": "<h2>DatabeersX</h2>",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2142"
+    },
+    {
+        "desc": "\nNella splendida cornice nel centro di Firenze, in un luogo vibrante di nuove idee e nuovi progetti, il PyCon Nove, si svolger\u00e0 il X incontro della nostra community!\u00a0\n\u00a0\nElasticFantastic, ecco l'agenda in breve:\n\n19.00-19:15:\u00a0\u00a0 Welcome&Networking\u00a0\n19.15-19.45:\u00a0 \u201cDal dato all'indice: kafka, logstash e nifi strumenti per l'ingestion da sorgenti esterne\" (Alessandro Fortunati)\n19.45-20.15:\u00a0 \"Elasticsearch nel pi\u00f9 grande motore di ricerca di Business Information italiano\" (Davide Setti)\u00a0\n20.15- 20.45\u00a0 \"Estrarre business insights da file audio con AWS Transcribe, AWS Comprehend, Elasticsearch e Kibana (Matteo Zuccon)\n20.45-21.15:\u00a0 \u201cUtilizzo di swiftype quale servizio SaaS per l'implementazione di un motore di ricerca per un applicazione\" (Vincenzo Lombardo)\u00a0\n21.15-21.30:\u00a0\u00a0 Q&A e Networking finale\u00a0\n\n\u00a0\n\nISCRIZIONE EVENTBRITE!! L' incontro sar\u00e0 aperto a tutti e gratuito, l'iscrizione \u00e8 obbligatoria -->\u00a0http://bit.ly/Meetup-ElasticPyCon\n\nPresentazione degli interventi in sintesi:\u00a0\n\nAlessandro Fortunati : Dal dato all'indice: kafka, logstash e nifi strumenti per l'ingestion da sorgenti esterne\u00a0\nBio: Business Unit Manager @Seacom con molti anni di esperienza nel design di soluzioni Big Data per molte importanti aziende italiane in diversi settori (industriale, automotive, finanziario, bancario e assicurativo).\u00a0\nAbstract :\u00a0Lo speech fornisce una panoramica dello stack elastic e di kafka, logstash e nifi quali strumenti per alimentare Elasticsearch prelevando dati da sorgenti esterne; per ognuno di essi saranno descritte le peculiarit\u00e0 e le caratteristiche principali al fine di effettuare le giuste scelte nella definizione di un progetto di search utilizzando cosa meglio si adatta alle esigenze implementative e al contesto all'interno del quale la integrazione debba essere realizzata.\u00a0\n\nDavide Setti: ElasticSearch nel pi\u00f9 grande motore di ricerca di Business Information italiano.\u00a0\nBio: Davide Setti \u00e8 CTO @SpazioDati dal 2013, dove guida lo sviluppo di strumenti per l'analisi massiva di informazioni strutturate (e non) applicate alla business information.\u00a0\nAbstract:\u00a0SpazioDati ha iniziato a sviluppare Atoka nel 2015, creando il pi\u00f9 grande motore di ricerca di Business Information in Italia. In questa talk presenteremo l\u2019utilizzo di Elasticsearch in atoka, soffermandoci in particolare sulla strategia adottata per permettere ad ogni cliente di integrare i propri dati, sfruttando le relazioni parent/child messe a disposizione dal sistema e utilizzando Kafka.\u00a0\n\nMatteo Zuccon: \"Estrarre business insights da file audio con AWS Transcribe, AWS Comprehend, Elasticsearch e Kibana\u00a0\u00a0\nBio : Solution Developer @MailUp. Informatico, appassionato di Python,Elasticsearch e AWS,\u00a0 technical blog writer per passione.\u00a0\nAbstract:\u00a0Come ricercare in registrazioni audio per parole chiave, entit\u00e0 o sentiment?\u00a0\nVedremo come convertire registrazioni audio in testo con AWS Transcribe, come analizzare il testo con AWS Comprehend e come usare Elasticsearch e Kibana per ricercare e visualizzare i contenuti.\u00a0\n\nVincenzo Lombardo: Utilizzo di swiftype quale servizio SaaS per l'implementazione di un motore di ricerca per un applicazione\u00a0\nBio: Vincenzo Operation Manager @Seacom si occupa di search in ambito enterprise da circa 10 anni. Ha esperienze pregresse nella realizzazione di integrazioni con Google Search Appliance per realt\u00e0 importanti; attualmente si sta dedicando ad Elasticsearch e Swiftype quali piattaforme di search.\u00a0\nAbstract:\u00a0Swiftype \u00e8 il nuovo servizio di Elasticsearch per la ricerca che fornisce un cruscotto di gestione e un set di strumenti mirati a migliorare la search experience. Nello speech verr\u00e0 fatta un overview di quanto viene messo a disposizione fornendo inoltre alcuni esempi d'uso mirati alla sua integrazione con applicativi esterni attraverso l'uso delle API rest di search e indicizzazione disponibili.\u00a0\n\u00a0\nVi aspettiamo numerosi!\n\nA presto!\n\nIl team Seacom\nPS: per rimanere aggiornati sui nostri eventi dei prossimi mesi, unisciti alle nostre community\n\nsu Meetup\u00a0 :\u00a0https://www.meetup.com/it-IT/Italia-Elastic-Fantastics\nsu LinkedIn:\u00a0https://www.linkedin.com/groups/8535730\n\n",
+        "end": 1524245400.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524236400.0,
+        "summary": "<h2>ElasticSearch Meetup</h2>",
+        "track": "PyDatabase",
+        "uid": "https://www.pycon.it/p3/event/2143"
+    },
+    {
+        "desc": "\nPython is a powerful and versatile programming language. Its capability to act a system integrator is exploited at the Elijah Observatory in order to acquire images in a automatic way.\nDuring the presentation it will be described the challenges of a real time application as the run of a remote Astronomical Observatory and, if the weather will be fine, there will be a live presentation of the tool.\nImportant note: this talk will take place in the PyBeer location, more details here: https://www.pycon.it/en/pybeer/\n\n",
+        "end": 1524247200.0,
+        "speakers": [
+            "Nicola Montecchiari"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/nicola-montecchiari-1"
+        ],
+        "start": 1524245400.0,
+        "summary": "PyBeer event: Python and the Automatic Astronomical Astrophotography",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2222"
+    },
+    {
+        "desc": "",
+        "end": 1524252600.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524247200.0,
+        "summary": "PyBirra!",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2223"
+    },
+    {
+        "desc": "",
+        "end": 1524286800.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524283200.0,
+        "summary": "Registration",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2172"
+    },
+    {
+        "desc": "\nFollowing a multi-year upgrade programme and several months of commissioning, the Advanced Virgo detector joined the LIGO Observation Run 2 (O2) data-taking period on the 1st of August 2017. On August 14, Advanced LIGO and Advanced Virgo detected the first triple-coincident merger of a binary black hole system, demonstrating the best-ever localization of gravitational-wave source on the sky. Three days later, the same detectors recorded for the first time the signal from a merger of a binary neutron star system. Counterparts of the event were also observed in all bands of the electromagnetic spectrum. This represents the first time that a cosmic event has been viewed in both gravitational waves and light and marks the beginning of multimessenger astrophysics. In this talk I will present an overview on the Advanced Virgo detector focusing on the role that it has played in this stream of discoveries and on the challenges we are still facing on the current upgrade and commissioning phases. I will also provide a general overview on the different uses of Python within the Virgo Projects highlighting its current use for the detector supervisory control automation, slow sample rate data acquisition and control room user interfaces development.\n\n",
+        "end": 1524289500.0,
+        "speakers": [
+            "Franco Carbognani"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/franco-carbognani"
+        ],
+        "start": 1524286800.0,
+        "summary": "Python, Gravitational Waves and the Dawn of Multimessenger Astrophysics",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2220"
+    },
+    {
+        "desc": "\nThe OpenStack Infra team runs one of the world\u2019s largest Open Source CI/CD systems in service of OpenStack\u2019s early decision to mandate that all merges only be performed by automation if and only if all tests pass. Accomplishing this at scale involves a combination of software and policy.\nZuul is the software engine developed to handle this. It is, of course, written in Python. (Python3 to be exact!)\nZuul is not OpenStack specific. With the rise of microservices and kubernetes, the number of multi-repo projects is increasing, as is the need for CI systems that understand them. The most recent version of Zuul has been reworked to make it easy for other people, communities or organizations to harness its power regardless of any relationship with OpenStack.\nWe\u2019ll talk about the things that make Zuul special - multi-repository dependencies, optimistic branch prediction and deep Ansible integration. And we\u2019ll walk through how to get started with a private or a public Zuul.\nThere are also the parts of the equation that Zuul doesn\u2019t cover. Handling thousands of different python projects requires some specific choices and tradeoffs, so we\u2019ll discuss how we structure the projects, dependency management and release engineering.\n\n",
+        "end": 1524292200.0,
+        "speakers": [
+            "Monty Taylor"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/monty-taylor"
+        ],
+        "start": 1524289500.0,
+        "summary": "Testing Thousands of Python Projects Every Day",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2206"
+    },
+    {
+        "desc": "",
+        "end": 1524295800.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524292200.0,
+        "summary": "Recruiting Session",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2170"
+    },
+    {
+        "desc": "",
+        "end": 1524297600.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524295800.0,
+        "summary": "Coffee Break",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2061"
+    },
+    {
+        "desc": "\nTutti giorni molti di noi usano git avendo a che fare con la sua complessit\u00e0.\nAlzi la mano chi non ha mai avuto un conflitto su un merge. O chi ha iniziato a sudare freddo pensando di aver perso ore di lavoro.\nL\u2019obbiettivo di questo talk \u00e8 quello di provare a togliere il velo di mistero a ci\u00f2 che succede sotto il cofano quando utilizziamo git, per usarlo con maggior consapevolezza e produttivit\u00e0, soprattutto quando le cose prendono una piega sbagliata.\nIl tutto strizzando l\u2019occhio al nostro linguaggio preferito: Python\nIl tour comprender\u00e0:\n\nintroduzione\nobjects\nreference\nesempi\n\nUn minimo di conoscenza di git \u00e8 consigliata :) .\n\n",
+        "end": 1524300300.0,
+        "speakers": [
+            "Simone Basso"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/simone-basso"
+        ],
+        "start": 1524297600.0,
+        "summary": "In git we trust",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2134"
+    },
+    {
+        "desc": "\nModern web-apps require bi-directional communication, reacting not only to user actions but also to server events. This can be achieved elegantly using Web Sockets, a protocol standardized by W3C to be a default tool for full-duplex connections on the Web.\nAlthough most of web-frameworks do not support Web Socket integration out of the box, Python has multiple options available making it a piece of cake. This talk showcases running Web Sockets with Python web-apps, starting from situations that can make a good use of it, and followed by an implementation with most practical frameworks: Tornado and Django Channels. We will explore a similar style but different underlying technologies of both, and finish with a live demo.\n\n",
+        "end": 1524300300.0,
+        "speakers": [
+            "Anton Caceres"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/anton-caceres"
+        ],
+        "start": 1524297600.0,
+        "summary": "How to use Web-Sockets in Python",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2127"
+    },
+    {
+        "desc": "\nStatistics show that eating ice cream causes death by drowning.\nIf this sounds baffling, this talk will help you to understand correlation, bias, statistical significance and other statistical techniques that are commonly (mis)used to support an argument that leads, by accident or on purpose, to drawing the wrong conclusions.\nThe casual observer is exposed to the use of statistics and probability in everyday life, but it is extremely easy to fall victim of a statistical fallacy, even for professional users.\nThe purpose of this talk is to help the audience understand how to recognise and avoid these fallacies, by combining an introduction to statistics with examples of lies and damned lies, in a way that is approachable for beginners.\nTentative agenda:\n\nCorrelation and causation\nPolluted surveys and Sampling bias\nData visualisation gone wild\nHypothesis testing and Statistical significance\nData dredging a.k.a. p-hacking\n\n\n",
+        "end": 1524300300.0,
+        "speakers": [
+            "Marco Bonzanini"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/marco-bonzanini"
+        ],
+        "start": 1524297600.0,
+        "summary": "Lies, damned lies, and statistics",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2120"
+    },
+    {
+        "desc": "\nFrom helping you find the perfect pair of shoes to booking movie tickets, chatbots are reinventing the process of business-customer interaction. With more and more businesses focusing on customer retention by reducing user query response times, chatbots have come to the fore so much so that Facebook Messenger has now joined the army of messaging apps that expose APIs for developers to deploy their chatbots.\nIn the first segment of the talk, we will be taking you through the whole process of setting up your messenger bot service, starting from the authorisation, features and usage of the Messenger Platform API to deploying your application on a platform, like Heroku. \nAfter getting your bot up and running on Messenger, we add functionality to the bot by giving it Natural Language Processing capabilities. This will include text classification using NLTK, entity recognition, part-of-speech tagging using spaCy language models that can learn over time. Then, we look at integrating Messenger frontend, NLP-modules and the backend database (using pandas) to generate appropriate responses to natural language user queries. \nFinally, we will be looking at different applications of conversational chatbots, what existing chatbots do, what future chatbots will do, and how your business can leverage them. Throughout the talk, I will be using an Airline customer service chatbot that I have programmed myself as an example, to help understanding the intricacies in designing functional chatbots.\nThis talk is aimed at novice to intermediate python programmers who are interested in Natural Language Processing & its applications. Some basic knowledge (like the existence!) of python-NLP packages would be more than sufficient.\n\n",
+        "end": 1524300300.0,
+        "speakers": [
+            "Akilesh Lakshminarayanan"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/akilesh-lakshminarayanan"
+        ],
+        "start": 1524297600.0,
+        "summary": "Building chatbots using Facebook Messenger API and Python-NLP packages",
+        "track": "PyDataTwo",
+        "uid": "https://www.pycon.it/p3/event/2106"
+    },
+    {
+        "desc": "\nParlare di inclusivit\u00e0 e tematiche di genere \u00e8 ormai una moda. Affrontare il tema donne che lavorano nell\u2019industria IT con toni tragici, come si trattasse di esseri mitologici, lo \u00e8 ancora di pi\u00f9. Come passare oltre il \u201cvelo di Maya\u201d e bypassare la disinformazione?\nNel 2015 insieme alla community Python Italiana abbiamo gettato le basi per portare in Italia Django Girls, workshop nato per contribuire a colmare quel gender gap di cui si parla tanto. \nIn tre anni di \u201cduro lavoro\u201d come organizzatrice di laboratori in Italia, sono entrata in contatto con oltre 400 donne appassionate di tecnologia: studentesse di ingegneria informatica,  architetti, insegnanti, casalinghe, web desinger. E anche con sviluppatori pronti a supportare la causa ( s\u00ec, potete essere una \u201cDjango Girl\u201d anche se avete la barba) che hanno contribuito a far crescere la community con il loro entusiasmo.\n45 minuti per conoscere la mission Django Girls,  entrare in contatto con la community italiana e per sfatare i falsi miti. Un talk entry level per tutti, per chi \u00e8 interessato a portare il progetto nella propria citt\u00e0, per chi vorrebbe fare il coach e per chi semplicemente vorrebbe sapere di pi\u00f9 sull\u2019iniziativa.  \n\n",
+        "end": 1524300300.0,
+        "speakers": [
+            "Laura Bartoli"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/laura-bartoli"
+        ],
+        "start": 1524297600.0,
+        "summary": "Django Girls Italia: entrare in contatto con le donne tecnologiche, davvero",
+        "track": "PyCommunity",
+        "uid": "https://www.pycon.it/p3/event/2113"
+    },
+    {
+        "desc": "\nI benefici di una testsuite completa e coerente sono un dato di fatto, ma una volta completata la nostra test suite \u00e8 l\u00ec che cominciano i veri problemi ed \u00e8 l\u00ec che diventa meno chiaro come muoversi.\nChe rapporto tenere tra le tipologie di test? Le Unit Test sono efficienti per identificare problemi e garantire comportamenti consistenti sul lungo termine, ma sono come verificare che le gambe camminano e le braccia fanno le flessioni senza verificare che un uomo intero riesca a camminare e fare le flessioni. I test e2e invece sono efficacissimi nel garantire il comportamento del sistema nel suo insieme, ma possono rapidamente diventare lenti ed insostenibili.\nSappiamo bene che ci sono i mock e fake objects, ma quando veramente mi conviene usare uno, l\u2019altro o l\u2019implementazione reale? Un test che riceve dei MagicMock e ritorna un MagicMock quanto \u00e8 affidabile realmente?\nSe ho decine di sviluppatori quanto serve testare i feature branches isolatamente dagli altri feature branches?\nQuesto talk cerca di evidenziare le problematiche che si devono affrontare quando si parla di testing di un progetto di grande complessit\u00e0, che integra decine di servizi e cerca di fornire alcune best practices pur conscio che non c\u2019\u00e8 mai una sola risposta.\n\n",
+        "end": 1524303000.0,
+        "speakers": [
+            "Alessandro Molina"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/alessandro-molina"
+        ],
+        "start": 1524300300.0,
+        "summary": "Testing, then once you got there?",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2135"
+    },
+    {
+        "desc": "\nShort summary: \nIn this talk you\u2019ll learn how to implement and deploy a basic serverless Python application.\nLong summary: \nServerless is a concept that has recently raised to popularity, boosted by the drive to financially optimize usage of computing power in cloud environments while reducing maintenance efforts.\nThe following topics will be covered in this talk:\n\nWhat is a serverless application?\nWhat are the benefits of the serverless execution model?\nWhat is AWS Lambda\nHow to implement a basic Python serverless application with AWS Lambda?\nHow to implement a serverless Python based Webservice using Zappa\n\nAlthough no live coding or deployments will be performed, the examples in this talk are very easy to repeat on one\u2019s own computer.\nTarget audience:\nProgrammers of all experience levels willing to know what serverless is, and how to use it. \nSome knowledge of Backend development would be beneficial to fully grasp the problem serverless architectures attempt to solve.\n\n",
+        "end": 1524303000.0,
+        "speakers": [
+            "Cesar Cardenas Desales"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/cesar-cardenas-desales"
+        ],
+        "start": 1524300300.0,
+        "summary": "Writing and deploying serverless Python applications",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2128"
+    },
+    {
+        "desc": "\nBokeh is an interactive visualization library that targets modern web browsers for presentation. Its goal is to provide elegant, concise construction of novel graphics in the style of D3.js, and to extend this capability with high-performance interactivity over very large or streaming datasets. In this talk, you will learn to use Bokeh to:\n\ncreate simple interactive plots\nannotate and styling the plots\nusing bokeh plots in web pages\nlink interactive visualizations to a running python instance\nstream data to plots\nusing Datashader to view and interact with large datasets\n\nData visualization is key to understanding the information contained in data. The interactivity provide a valuable means for engineers, data journalist, and scientist to explore their data. \nThis talk will introduce (using also some code example) the audience to the basics of using Bokeh, demonstrate different aspects of the library, and teach how to deal with data formats (pandas, numpy, bokeh Column Data Source)\nKnowledge required: python3, pandas basics, numpy bascis, data mining, jupyter notebook\nFor some visualization examples refers here\n\n",
+        "end": 1524303000.0,
+        "speakers": [
+            "Ernesto Arbitrio"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/ernesto-arbitrio-2"
+        ],
+        "start": 1524300300.0,
+        "summary": "Bokeh: Using python for interactive data visualization",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2121"
+    },
+    {
+        "desc": "\nNowadays \u2018build and run\u2019 a predictive model is a quite easy task, thanks to frameworks that simplify things and set good defaults for you (i.e. Keras). \nBut how do you effectively train a model, in order to gain better performance or to get your results faster? \nDo you feel frustrated every time you need to set and then tune the network\u2019s hyperparameters, too? Don\u2019t worry! \nIn this talk I will share some practical tips&tricks (such as Model Ensembling and learning rate schedulers) and relative examples, derived from my personal experience or from literature, with the aim to improve neural networks capabilities and to get the convergence faster. \nThis talk is aimed at data scientists or everyone passionate about this topic who wants to learn more.\nGently inspired by Practical Deep Learning for Coders Part 1 v2 of fast.ai.\n\n",
+        "end": 1524303000.0,
+        "speakers": [
+            "Alessia Marcolini"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/alessia-marcolini"
+        ],
+        "start": 1524300300.0,
+        "summary": "How to make your model happy again ",
+        "track": "PyDataTwo",
+        "uid": "https://www.pycon.it/p3/event/2187"
+    },
+    {
+        "desc": "\nL\u2019istruzione tecnica \u00e8 stata introdotta ai tempi della rivoluzione industriale anche in funzione della necessit\u00e0 di avere operai specializzati, una volta formato l\u2019operaio svolgeva pressoch\u00e9 la stessa mansione per tutta la vita. Dalla Rivoluzione Industriale a oggi, il lavoro si \u00e8 evoluto in modo considerevole. Tuttavia, queste grandi trasformazioni del passato sono state graduali, mentre oggi i cambiamenti sono repentini, trasversali e dirompenti. La formazione scolastica \u00e8 rimasta ancorata a schemi tradizionali. Il fine ultimo della scuola dovrebbe essere quello di fare uscire ragazzi intraprendenti e capaci di trarre soddisfazione dallo stesso apprendimento, e le esperienze di alternanza scuola-lavoro nelle aziende assumono un ruolo importante per la loro formazione, per le soft skill, per mantenere alto l\u2019interesse, per rendere lo studente protagonista e consapevole.\nQuesta \u00e8 la storia di un gruppo di studenti di un istituto tecnico superiore, appassionati di Python e provenienti da esperienze di alternanza e di partecipazione alle conferenze di comunit\u00e0, che hanno immaginato di sviluppare autonomamente Panino Digitale, un\u2019applicazione basata sul framework Django, con cui gli studenti possano prenotare il panino al bar della scuola. Per realizzarla concretamente, hanno coinvolto i loro docenti, condiviso l\u2019idea con la loro comunit\u00e0 scolastica, raccolto nuovi contributori tra i loro compagni, e chiesto supporto, affiancamento e strumenti alla community Python e ai suoi membri.  \n\n",
+        "end": 1524303000.0,
+        "speakers": [
+            "Mauro Angioni"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/angioni-mauro"
+        ],
+        "start": 1524300300.0,
+        "summary": "Panino Digitale: una applicazione pratica di educazione creativa",
+        "track": "PyCommunity",
+        "uid": "https://www.pycon.it/p3/event/2214"
+    },
+    {
+        "desc": "",
+        "end": 1524307500.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524303000.0,
+        "summary": "Lunch",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2062"
+    },
+    {
+        "desc": "\nOpenStack is a massive open source project, formed of multiple components written in Python. Created in 2010, it attracted thousands of developers which produced hundreds of thousands of commits. It is completely openly-developed: there is no single organization owning it, and anyone can participate on a level playing ground.\nDuring this wild ride, we discovered new classes of issues, crafted novel solutions, made mistakes and learned lessons, most of them applicable to other open source projects. Come learn about software engineering best practices, open collaboration advice and other fun tips and tricks based on our experience ! No prior experience with OpenStack is needed to attend this talk.\n\n",
+        "end": 1524310200.0,
+        "speakers": [
+            "Thierry Carrez"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/thierry-carrez-1"
+        ],
+        "start": 1524307500.0,
+        "summary": "Lessons from a massive, openly-developed project",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2201"
+    },
+    {
+        "desc": "\nIn questo talk si parler\u00e0 di GraphQL, un \u201cdata query language\u201d creato da Facebook come alternativa al famoso REST. Verrano elencate la varie differenze e i vantaggi/svantaggi rispetto ad una tradizionale API REST. \nVerr\u00e0 inoltre mostrato come utilizzare GraphQL con Python con un piccolo approfondimento su come utilizzarlo con Django. In caso ci sia abbastanza tempo, verrano elencate anche alcune informazioni avanzate, come Authentication, Caching, Security e Realtime.\nTakeaway: l\u2019obiettivo del talk \u00e8 di dare una prima occhiata a GraphQL, dando alcuni input su perch\u00e9 usarlo e sopratutto come iniziare ad usarlo in Python con e senza Django.\nAudience: il talk \u00e8 rivolto a sviluppatori web con un po\u2019 di esperienza di API web.\n\n",
+        "end": 1524310200.0,
+        "speakers": [
+            "Patrick Guido Arminio"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/patrick-guido-arminio"
+        ],
+        "start": 1524307500.0,
+        "summary": "GraphQL in Python",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2129"
+    },
+    {
+        "desc": "\nThe Max Planck Computing and Data Facility is\u00a0engaged in the development and optimization of algorithms and applications for high performance\u00a0computing as well as for data-intensive projects. As programming language in data science, Python is now used at MPCDF in the scientific area of \u201catom probe crystallography\u201d (APT): a Fourier analysis in 3D space can be simulated in order to reveal composition and crystallographic structure at the atomic scale of billions APT experimental data sets. \nThe Python data ecosystem has proved to be well suited to this, as it has grown beyond the confines of single machines to embrace scalability. The talk aims to describe our approach to scaling across multiple GPUs, and the role of visualization methods too. \nOur data workflow analysis relies on the GPU-accelerated Python software package PyNX, an open source library which provides fast parallel computation scattering. The code takes advantage of the high throughput of GPUs, using the pyCUDA library. \nExploratory data analysis, high productivity and rapid prototyping with high performance are enabled through Jupyter Notebooks and Python packages e.g., pandas, matplotlib/plotly. In production stage, interactive visualization is realized by using standard scientific tool, e.g. Paraview, an open-source 3D visualization program which requires Python modules to generate visualization components within VTK files.\n\n",
+        "end": 1524310200.0,
+        "speakers": [
+            "Giuseppe Di Bernardo"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/giuseppe-di-bernardo-1"
+        ],
+        "start": 1524307500.0,
+        "summary": "GPU-accelerated data analysis in Python: a study case in Material Sciences",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2208"
+    },
+    {
+        "desc": "\nSummary\nThere is a gold-rush among hedge-funds for text mining algorithms to quantify textual data and generate trading signals. Harnessing the power of alternative data sources became crucial to find novel ways of enhancing trading strategies.\nWith the proliferation of new data sources, natural language data became one of the most important data sources which could represent the public sentiment and opinion about market events, which then can be used to predict financial markets.\nTalk is split into 5 parts;\n\nWho is a quant and how do they use NLP?\nHow deep learning has changed NLP?\nLet\u2019s get dirty with word embeddings\nPerformant deep learning layer for NLP: The Recurrent Layer\nUsing all that to make money\n\n1. Who is a quant and how do they use NLP?\nQuants use mathematical and statistical methods to create algorithmic trading strategies.\nDue to recent advances in available deep learning frameworks and datasets (time series, text, video etc) together with decreasing cost of parallelisable hardware, quants are  experimenting with various NLP methods which are applicable to quantitative trading.\nIn this section, we will get familiar with the brief history of text mining work that quants have done so far and recent advancements.\n2. How deep learning has changed NLP?\nIn recent years, data representation and modeling methods are vastly improved. For example when it comes to textual data, rather than using high dimensional sparse matrices and suffering from curse of dimensionality,  distributional vectors are more efficient to work with.\nIn this section, I will talk about distributional vectors a.k.a. word embeddings and recent neural network architectures used when building NLP models.\n3. Let\u2019s get dirty with word embeddings\nModels such as Word2vec or GloVe helps us create word embeddings from large unlabeled corpus which represent the relation between words, their contextual relationships in numerical vector spaces and these representations not only work for words but also could be used for phrases and sentences.\nIn this section, I will talk about inner workings of these models and important points when creating domain-specific embeddings (e.g. for sentiment analysis in financial domain).\n4. Performant deep learning layer for NLP: The Recurrent Layer\nRecurrent Neural Networks (RNNs) can capture and hold the information which was seen before (context), which is important for dealing with unbounded context in NLP tasks. \nLong Short Term Memory (LSTM) networks, which is a special type of RNN, can understand the context even if words have long term dependencies, words which are far back in their sequence.\nIn this talk, I will compare LSTMs with other deep learning architectures and will look at LSTM unit from a technical point of view.\n5. Using all that to make money\nFinancial news, especially if it\u2019s major, can change the sentiment among investors and affect the related asset price with immediate price corrections.\nFor example, what\u2019s been communicated in quarterly earnings calls might indicate whether the price of share will drop or increase based on the language used. If the message of the company is not direct and featuring complex sounding language, it usually indicates that there\u2019s some shady stuff going on and if this information extracted right, it\u2019s a valuable trading signal. For similar reasons, scanning announcements and financial disclosures for trading signals became a common NLP practice in investment industry.\nIn this section, I will talk about the various data sources that researchers can use and also explain common NLP workflows and deep learning practices for quantifying textual data for generating trading signals.\nI will end with summary with application architecture in case anyone would like to implement similar systems for their own use.\n\n",
+        "end": 1524310200.0,
+        "speakers": [
+            "Umit Mert Cakmak"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/umit-mert-cakmak"
+        ],
+        "start": 1524307500.0,
+        "summary": "Recent advancements in NLP and Deep Learning: A Quant's Perspective",
+        "track": "PyDataTwo",
+        "uid": "https://www.pycon.it/p3/event/2202"
+    },
+    {
+        "desc": "\nIn this workshop, we\u2019re going to learn how to create a virtual rapporteur. A digital assistant who can join any conference call; record it and provide participants with real-time insights into the overall tone of the call. Once the call is complete, we\u2019ll look at how we can use the call recording to provide participants with a text transcript as well as meta information about the call such as the most talked about concepts, keywords and entities.\nWorkshop outline\nCreating our conference\n\nWhat is Hug\nCreating a conference line with Hug & Nexmo\nRunning our Hug server\n\nAdding our bot and recording the call\n\nCreating our bot API endpoint\n\nSending our audio to IBM Watson\n\nIntroducing Tornado\nHandling a WebSocket Connection\nUsing on_message to proxy data to IBM Watson\n\nPerforming our sentiment analysis\n\nSending our transcription to the tone analyser service\n\nDisplaying in the browser\n\nDemo\n\nFetching our recording \n\nDownloading the mp3 with requests\nSending the mp3 to be transcribed\n\nUsing the Natural Language Understanding API\n\nSending our transcription to the NLU API\nSaving the response\n\nPulling it all together\n\nFinal Demo\n\nAttendees: This is an intermediate level workshop, you should be familiar with Python and the command line. All attendees should bring a laptop to work on, with Python 3 already installed. The DjangoGirls installation tutorial is handy if you\u2019ve never done this before. You will also need to sign-up for a free Nexmo and IBM Watson account to access their APIs.\nWe\u2019ll be coding the application in Python and JavaScript, with the Hug, Tornado and Vuejs frameworks; so a knowledge of both languages would be beneficial but is not required. We will be making heavy use of several APIs, so experience with REST and WebSockets will help.\n\n",
+        "end": 1524321900.0,
+        "speakers": [
+            "Aaron Bassett"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/-812"
+        ],
+        "start": 1524307500.0,
+        "summary": "Real-time transcription and sentiment analysis of audio streams; on the phone and in the browser",
+        "track": "TrainingTwo",
+        "uid": "https://www.pycon.it/p3/event/2105"
+    },
+    {
+        "desc": "\nChe lo sappiate o no, ogni volta che usate pandas o scipy o astropy o caffe o statsmodels\u2026 state utilizzando codice scritto in cython.\nO meglio, state utilizzando anche codice cython.\nQuesto \u201canche\u201d \u00e8 la vostra salvezza se il vostro amore per Python \u00e8 dovuto almeno in parte a quella sana pigrizia che ti dice \u201cchi lascia la strada vecchia per la nuova\u2026\u201d Perch\u00e9 cython non ti obbliga a prendere una strada nuova dal classico listato Python: ti permette invece di prendere solo le scorciatoie che desideri.\nLo scopo di questo tutorial quindi non \u00e8 mostrare che cython \u00e8 la soluzione a tutti problemi, ma che per quei problemi di performance di cui \u00e8 la soluzione, provare a \u201ccythonizzare\u201d il codice pu\u00f2 dare risultati sorprendenti con uno sforzo minimo.\nQuanto minimo? Il tempo di questo tutorial!\n(Che includer\u00e0 qualche esempio di integrazione cython - numpy)\nRequisiti\nVenite armati di portatile, con installati\n\nJupyter notebook\nPython 3 (preferibilmente 3.5.x o successivo)\ncython3 (ed un compiler)\nnumpy versione 1.10 o successiva\n\nTutto ci\u00f2 si pu\u00f2 trovare negli archivi ufficiali Debian o Ubuntu: pacchetti cython3, build-essentials, python3-numpy e jupyter-notebook (o ipython-notebook). Oppure si pu\u00f2 installare con pip o con conda/anaconda, come indicato qui, qui e qui.\n\n",
+        "end": 1524321900.0,
+        "speakers": [
+            "Pietro Battiston"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/pietro-battiston"
+        ],
+        "start": 1524307500.0,
+        "summary": "Codice pi\u00c3\u00b9 efficiente? Restate cythonizzati",
+        "track": "TrainingOne",
+        "uid": "https://www.pycon.it/p3/event/2104"
+    },
+    {
+        "desc": "\nOutreachy program offers three-month internships for people from groups underrepresented in tech. Interns are paid a stipend of $5,500 and have a $500 travel stipend available to them. Interns work remotely with mentors from Free and Open Source Software (FOSS) communities on projects not limited to just programming but also user experience, documentation, illustration and graphical design.\nI am currently interning with Fedora under the Outreachy program, where my task is to is to develop administrative tools for the 389 Directory Server, an enterprise class LDAP (Lightweight Directory Access Protocol) server, used in businesses globally to authenticate and identify people. LDAP is a standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network. I am helping Fedora improve the Directory Servers Python command line tools. In addition to this, the team at Fedora is also investigating into integrating existing C code with Rust (watch here: Integrating Rust with existing C) to improve performance and maintainability. Hence, I am also working on establishing proof of concept for using Rust instead of C and also using Rust with existing C.\nI started with fixing bugs in the Directory Server and it enabled me to get more understanding about LDAP concepts, since LDAP has a steep learning curve. My first task was to add the command line support for automember plugin to the Directory Server. Automembership allows a static group to act like a dynamic group, for adding new members to the group. Different automembership definitions create searches that are automatically run on all new directory entries. The automembership rules search for and identify matching entries and then explicitly add those entries as members to the group. I started by added the classes (Auto Membership Plugin, Auto Member Definition, Auto Member Definitions), methods and the tests for these classes and methods (Pull Request). Then I added the support for automember by command line which included creating, removing, editing and showing the automember definitions. This included writing the tests as well. By the end of this task, I learnt about Python decorators, lazy evaluation in Python, using pytest testing tool and writing command line parser and arguments using the argparse library. (This will be shown with live coding and screenshots).\nI am currently working on another task which involves building an LRU cache in Rust which stores C allocated strings and can retrieve them. This project will be built using the meson build system. I will also provide tests and asan builds. This task will act as a proof of concept for investigating if meson can replace autotools as the Directory Server build system. During this task, I hope to learn about build systems, LRU caching concept and Rust types and safety.\nAs you can deduce from my tasks and the key learnings, doing this Outreachy internship with Fedora is helping me to stand at the forefront of technology, learning about LDAP, Python and Rust (polyglot!), which will definitely enable me to become a better programmer and a collaborative community member for Fedora. And I hope to inspire other underrepresented people in tech with my talk about the Outreachy internship and my progress.\n\n",
+        "end": 1524310200.0,
+        "speakers": [
+            "Alisha Aneja"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/alisha-aneja"
+        ],
+        "start": 1524307500.0,
+        "summary": "Working for FOSS can make you a better programmer: Insights into my Outreachy internship with Fedora",
+        "track": "PyCommunity",
+        "uid": "https://www.pycon.it/p3/event/2115"
+    },
+    {
+        "desc": "\nThe Chinese language includes over 200 radicals used to form over 40 thousands characters that can be combined to create almost 100 thousands words.  Then there are tones, classifiers, homophones, multiple pronunciations for each character, traditional and simplified variants, different kind of romanization\u2026 it\u2019s no wonder that Chinese is considered one of the most difficult languages to learn.\nHowever Chinese is actually pretty easy and during this talk you will learn more about this beautiful language and how I\u2019ve been learning it with the help of Python.\n\n",
+        "end": 1524313800.0,
+        "speakers": [
+            "Ezio Melotti"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/ezio-melotti"
+        ],
+        "start": 1524310200.0,
+        "summary": "A journey into the Chinese language with Python",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2137"
+    },
+    {
+        "desc": "\nSe sei stanco di occuparti di load balancing, routing e cloud monitoring e vorresti dedicarti solo a lambda function, list comprehension o class-based view allora questo \u00e8 il talk che fa per te.\nHeroku \u00e8 la piattaforma PaaS (Platform as a Service) che consente agli sviluppatori di creare, eseguire e gestire applicazioni interamente nel cloud.\nAd essere fornito come servizio  non c\u2019\u00e8 solo l\u2019hardware, ma anche la piattaforma che astrae l\u2019hardware stesso e permette di usufruire di  funzionalit\u00e0 che consentono di ottenere bilanciamenti automatici, gestione del deployment e altro ancora. \nIl vantaggio per l\u2019utente \u00e8 quello di concentrarsi solo ed esclusivamente sullo sviluppo dell\u2019applicazione senza perdersi nell\u2019analisi di problematiche legate all\u2019ambiente in cui essa deve essere distribuita ottenendo cos\u00ec la scalabilit\u00e0 e l\u2019affidabilit\u00e0 necessaria.\n\n",
+        "end": 1524313800.0,
+        "speakers": [
+            "Sabatino Severino"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/sabatino-severino"
+        ],
+        "start": 1524310200.0,
+        "summary": "Heroku: come deployare un'app Django in 10 minuti!",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2205"
+    },
+    {
+        "desc": "\nReproducibility - the ability to recompute results \u2014 and replicability\u2014\nthe chances other experimenters will achieve a consistent result[1]- are\namong the main important beliefs of the scientific method.\nSurprisingly, these two aspects are often\nunderestimated or not even considered when setting up scientific\nexperimental pipelines. In this, one of the main threat to replicability\nis the selection bias, that is the\nerror in choosing the individuals or groups to take part in a study.\nSelection bias may come in different flavours: the selection of the\npopulation of samples in the dataset (sample bias);\nthe selection of features used by the learning models,\nparticularly sensible in case of high dimensionality; the selection\nof hyper parameter best performing on specific dataset(s).\nIf not properly considered, the selection bias may strongly affect the\nvalidity of derived conclusions, as well as the reliability of the learning\nmodel.\nIn this talk I will provide a solid introduction to the topics of\nreproducibility and selection bias, with examples taken from the\nbiomedical research, in which reliability is paramount.\nFrom a more technological perspective, to date the scientific Python\necosystem still misses tools to consolidate the experimental pipelines in\nin research, that can be used together with Machine and Deep learning frameworks\n(e.g. sklearn and keras).\nIn this talk, I will present reproducible-learn,\n a new Python frameworks for reproducible research to be used for machine and deep learning.\nDuring the talk, the main features of the framework will be presented,\nalong with several examples, technical insights and implementation\nchoices to be discussed with the audience.\nThe talk is intended for intermediate PyData researchers and practitioners.\nBasic prior knowledge of the main Machine Learning concepts is assumed\nfor the first part of the talk.\nOn the other hand, good proficiency with the Python language and with\nscientific python libraries (e.g. numpy, sklearn) are required for\nthe second part.\n\u2013\n1\nReproducible research can still be wrong: Adopting a prevention approach by\nJeffrey T. Leek, and Roger D. Peng\n2\nDictionary of Cancer Terms -> \u201cselection bias\u201d\n\n",
+        "end": 1524313800.0,
+        "speakers": [
+            "Valerio Maggio"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/valerio-maggio"
+        ],
+        "start": 1524310200.0,
+        "summary": "Reproducibility, and Selection Bias in Learning: when just Cross Validation is not enough!",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2123"
+    },
+    {
+        "desc": "\nPython is an opensource language that has a wide community, and nowadays the biggest companies also create frameworks, libraries with Python and open-sourced them. Tensorflow is the most used library in Deep Learning by researchers and there are many examples of various fields like Computer Vision, Natural Language Processing, Signal Processing. \nNowadays, Generative Adversarial Networks a.k.a. GAN collect nearly all interests on it by the Computer Vision experts. There are diverse applications like image colorization, image generation from random numbers, computer game character creation, face frontalization,  face alignment, 2D to 3D image transfer, style transfer and so on.\nIn this talk, we are going to talk about GANs and the implementation details on Tensorflow which is backed by Google and has the power of either work on CPU and GPU.\nThe implementation of GANs can be divided into 2 parts. One is called generator and other is called discriminator. In this talk, the differences between the discriminator and generator also are mentioned. \nBesides, some various architecture of GANs like PGGAN, DCGAN, STARGAN, architectures showed in Tensorflow code, which of these are not already implemented in Tensorflow by the date now.\nThe session will be finished with showing some examples of outputs in face generation, room generation, and also live demo of the style transfer implementation.\n\n",
+        "end": 1524313800.0,
+        "speakers": [
+            "Cenk Bircano\u011flu"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/cenk-bircanoglu"
+        ],
+        "start": 1524310200.0,
+        "summary": "Image Generation with Tensorflow (GANs)",
+        "track": "PyDataTwo",
+        "uid": "https://www.pycon.it/p3/event/2109"
+    },
+    {
+        "desc": "\nEmpathy is a fundamental part of human interaction. When we communicate by email or at conferences, or indirectly, when we create products, events, or do a talk. However, our understanding of other people is full of error, and worse, bias. This can lead us to make communities and products that work poorly for people that are different from ourselves, introduce confusion and misunderstanding, exclude people unintentionally, and sometimes even cause harm.\nHowever, our communities are an opportunity to learn as well. To embrace our diversity, and expand our understanding of other people\u2019s worlds. To gain understanding of other people\u2019s situations, experiences and emotions, which can be dramatically different to ours. And how we can use this to create both products and communities which work great not only for ourselves, but also those that we more easily forget about. As creators in tech we have such tremendous power to create change, but merely our best intentions will not be enough for that.\nThis talk will explore how and why we sometimes have such difficulty to understand others, and how others can have difficulty to understand us. We\u2019ll talk about why other people\u2019s experiences, emotion and perceptions can be so different. Both for the world as a whole, but also with the speaker\u2019s personal experiences. Finally, we\u2019ll cover specific ways for us to understand others better, and associated pitfalls, to make our communities and products happy, inviting and supportive places.\n\n",
+        "end": 1524313800.0,
+        "speakers": [
+            "Sasha Romijn"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/erik-r"
+        ],
+        "start": 1524310200.0,
+        "summary": "Helping communities & products thrive by fostering empathy",
+        "track": "PyCommunity",
+        "uid": "https://www.pycon.it/p3/event/2119"
+    },
+    {
+        "desc": "",
+        "end": 1524315600.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524313800.0,
+        "summary": "Coffee Break",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2060"
+    },
+    {
+        "desc": "\nSe anche tu negli ultimi tempi hai sentito l\u2019irrefrenabile bisogno di accendere le luci della tua casa mentre sei in vacanza o di guardare cosa fanno i tuoi animaletti quando non ci sei, ma non ti accontenti\u2026 allora questo talk fa per te!\nVi far\u00f2 vedere come \u00e8 possibile avere uno stack completo di sviluppo per la domotica completamente in  python, dalla programmazione dei sensori attraverso gli economici ESP 8266 e suoi derivati ai sistemi di gestione complessi.\n\n",
+        "end": 1524318300.0,
+        "speakers": [
+            "Lelio Campanile"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/lelio-campanile"
+        ],
+        "start": 1524315600.0,
+        "summary": "IoT con Python: si pu\u00c3\u00b2 fare! dall'ESP8266 alla casa domotica",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2138"
+    },
+    {
+        "desc": "\nVi siete mai chiesti cosa succede quando due strumenti potenti si completano?\nVedremo come ottenere un ambiente di sviluppo molto veloce e come analizzare i tempi delle query in produzione per isolare i colli di bottiglia. Analizzeremo cosa ci offre Django per gestire i pool di connessioni e l\u2019uso di pgbouncer.\nEsploreremo le strade che si aprono utilizzando i campi JSON ed i campi ARRAY, che sono i pi\u00f9 comunemente usati, ma anche di come utilizzare PostgreSQL come un gestore di code.\nRequisiti: conoscenze basilari di Python, di Django ed uso di PostgreSQL\n\n",
+        "end": 1524318300.0,
+        "speakers": [
+            "Leonardo Cecchi",
+            "Tamara Nocentini"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/leonardo-cecchi-1",
+            "https://www.pycon.it//conference/p/tamara-nocentini-1"
+        ],
+        "start": 1524315600.0,
+        "summary": "Quando Django incontra PostgreSQL!",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2195"
+    },
+    {
+        "desc": "\nIn this talk I\u2019ll present the usefulness of databases for data science projects. \nDatabases have been around for decades and were highly optimised for data aggregations during that time. Not only Big data has changed the landscape of databases massively in the past years - we nowadays can find many Open Source projects among the most popular dbs. \nAfter this talk you will be enabled to decide if a database can make your work more efficient and which direction to look to.\nOutline:\n\nA quick recap on database history, \nit all starts in Florence - where else\u2026.\nWhat is a database? What\u2019s a data store? data lake?\u2026\nRelational SQL systems and their benefits for DS\nNoSQL systems and their benefits for DS\nHow to chose the db fitting your needs.\n\n\n",
+        "end": 1524318300.0,
+        "speakers": [
+            "Alexander Hendorf"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/alexander-hendorf"
+        ],
+        "start": 1524315600.0,
+        "summary": "Databases for Data Science",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2125"
+    },
+    {
+        "desc": "\nYou might have heard of Machine Learning from your co-worker or in a local meetup and are enticed to get started but not sure how to take that first step. Confused between different sources, where to start from or how to proceed given a particular problem statement or dataset, then this talk is for you. It is aimed at complete beginners ( maybe you? ) who are just starting in machine learning and are ready to commit.\nThe talk will go something like this - each of the following items will be explained how it\u2019s useful and why we should use it. Then alongside showcase, that same step applied to the real example(dataset) of that particular item so that the audience will be able to grasp the idea. It will add to around 35 minutes leaving us with 10 minutes for Q&A.\n1) Context ( 5 mins ): \nDiscuss why we need Machine Learning and how we can use Machine Learning in different domains.\n2)  Resources ( 3 mins): \nTalks about the dataset availability, online competitions, and Open Source libraries such as Scikit-learn, Matplotlib, Keras.\n3) Jupyter Notebook (25 mins): \n This Jupyter notebook will be a great starting point for most Supervised Machine Learning projects that involve common tasks:\na) Imports and data loading (2 mins ) \nb) Data Exploration (5 mins) \nc) Data Cleaning (3 mins) \nd) Feature Engineering (4 mins) \ne) Model Exploration (6 mins) \nf) Final Model Building and Prediction ( 5 mins)\n4) Wrap up ( 2 mins ): \nFinalizing my talk, sharing some tips etc.\n5) Q&A ( 10 mins ): \nQuestion and Answering with the Audience.\nHope to inspire the audience to get started with machine learning, explore different domains, to learn, to create and engage with the Machine Learning Community.\n\n",
+        "end": 1524318300.0,
+        "speakers": [
+            "Laksh Arora"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/laksh-arora"
+        ],
+        "start": 1524315600.0,
+        "summary": "Hacking Your Way Into Machine Learning",
+        "track": "PyDataTwo",
+        "uid": "https://www.pycon.it/p3/event/2110"
+    },
+    {
+        "desc": "\nThis is the story of how I went from lonely, introvert, C# developer to open-source Python author and maintainer, speaker, trainer, consultant and all-around community junkie. With some luck, in the process you will also hear a few hints on how to become a good open source contributor and have a chance to ponder on the pros and cons (yes, there are cons too) of going full monty with open source.\n\n",
+        "end": 1524318300.0,
+        "speakers": [
+            "Nicola Iarocci"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/nicola-iarocci-1"
+        ],
+        "start": 1524315600.0,
+        "summary": "My story with Python and Open Source",
+        "track": "PyCommunity",
+        "uid": "https://www.pycon.it/p3/event/2117"
+    },
+    {
+        "desc": "\nIl talk vuole illustrare gli strumenti e le Api Python che Google mette a disposizione liberamente agli sviluppatori per interagire con alcune delle sue applicazioni pi\u00f9 diffuse come Google Calendar, Google Docs, Google Drive, Google Gmail.\nVerr\u00e0 illustrato quindi l\u2019uso delle Google API Client Libraries e verranno mostrati esempi pratici per creare e popolare un Foglio di Google, creare appuntamenti su un Google Calendar, fare l\u2019upload di un file su Google Drive ed analizzare la propria casella Gmail.\nPer seguire il talk \u00e8 sufficiente una discreta conoscenza del linguaggio Python.\n\n",
+        "end": 1524321000.0,
+        "speakers": [
+            "Simone Dalla"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/simone-dalla"
+        ],
+        "start": 1524318300.0,
+        "summary": "Google loves Python 2.0",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2209"
+    },
+    {
+        "desc": "\nPrometheus.io \u00e8 un sistema di whitebox monitoring creato a Soundcloud da ex-googlers. Non serve essere google per usarlo e in questa talk vorrei mostrare come sia semplice (e utile!) integrarlo in un\u2019applicazione Django. Non monitori i tuoi website? Purtroppo sono non violento ma cercher\u00f2 in qualche modo di convincerti a farlo.\n\n",
+        "end": 1524321000.0,
+        "speakers": [
+            "Davide Setti"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/davide-setti-1"
+        ],
+        "start": 1524318300.0,
+        "summary": "Monitoraggio di applicazioni Django con Prometheus (e Grafana)",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2130"
+    },
+    {
+        "desc": "\nAudience Level\nData Scientists and Data Science Practitioners with basic to intermediate level experience in image recognition/object detection deep learning applications, basic Python programming skills.\nBrief Description\nDeep Learning is revolutionizing both Data Science and Artificial Intelligence real-world applications. Yet, being the discipline so young, it\u2019s not straightforward to understand both the reasoning at its core and its countless use cases. In this talk we will review the basics of Neural Networks, from the classical CNNs to the current state of the art, comparing them through real industry applications and highlighting pros and cons in a business setting.\nAbstract / Summary\nDeep Learning has been on a hype roll for a few years. Being such a young discipline makes deep learning interesting, but also subject to misunderstandings. Every year, brand new architectures rise, taking over old ones and outperforming state of the art benchmarks for accuracy. Further, the applications of deep learning are at the core of some of the most advanced technologies like autonomous driving, personal assistants, and customer profiling. In such a context it is not straightforward to grasp what is at the core of deep learning itself, and what is common to all the architectures, neither to realize how concrete use cases can be tackled. \nUsing Python, we\u2019ll take the audience from the simplest neuron, the atom of the deep learning world, to the most recent architectures. We\u2019ll achieve this using a simple Convolutional Neural Network as a building block and comparing that to the latest breakthroughs in image recognition. In doing this we\u2019ll try to give an answer to the following questions:\n\u2022   Is deep learning actually useful in a business setting? \n\u2022   What about state of the art techniques in the Computer Vision field: are we just stacking more and more convolutional and pooling layers?\nWe will then address real industry applications (e.g. the insurance sector) using analyzed techniques. This will include opening some of these so-called black box models and retraining them, at least partially, on our datasets, or building a complete brand new network from scratch, tailoring it according to the application needs and datasets characteristics.\n\n",
+        "end": 1524321000.0,
+        "speakers": [
+            "Rocco Michele Lancellotti",
+            "Gennaro Di Brino"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/rocco-michele-lancellotti",
+            "https://www.pycon.it//conference/p/gennaro-di-brino"
+        ],
+        "start": 1524318300.0,
+        "summary": "Deep Learning in Computer Vision: state of the art techniques and applications in industry",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2210"
+    },
+    {
+        "desc": "\nWe aim to address the problem of missing data for recommendation systems with Python 2.7 and the H2O package. To this end, we \u201cre-impute\u201d artificially removed values into a dataframe with the help of two models: (1) Deep Learning with Autoencoder & (2) Generalized Low Rank Model (GLRM). To tune and evaluate both models, we implement a cross validation that optimizes the imputation accuracy of the artifically removed values. As a result, Deep Learning with Autoencoder consistently preforms better in terms of precision, wheras GLRM performs better in terms of execution time. Finally, we also present a new ranking formula which is inspired by Lucene Similarity but weighs the cosine similarity according to the percentage of matches.\nIt will be shown an implementation of the recommendation system to real estate data. We will show:\n(1) some tuning plots of the models for imputation of missing features of real estate queries;\n(2) a discussion about approximation of the scoring formula to rank the matching houses;\n(3) a excerpt of the recommendation system front-end implemented in Flask.\nTo attend this talk, a basic knowledge about statistics and Python is helpful.\n\n",
+        "end": 1524321000.0,
+        "speakers": [
+            "Chiara Basei",
+            "Daniah Albanaa"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/chiara-basei",
+            "https://www.pycon.it//conference/p/dania-banaa"
+        ],
+        "start": 1524318300.0,
+        "summary": "Recommendation Model\u00c2\u00a0for\u00c2\u00a0Ranking\u00c2\u00a0Matching Houses",
+        "track": "PyDataTwo",
+        "uid": "https://www.pycon.it/p3/event/2198"
+    },
+    {
+        "desc": "\nDescription\nCPython, what\u2019s CPython. CPython is the official implementation of Python, written in C. And it\u2019s not just a implementation, it is a group of volunteers and where they daily work on the project but there is no many active contributors.\nIn this talk, I would like to prove to you than you can become an active contributor of CPython.\nThe core developers of CPython need your help, for example, with the review of some patches, you can comment a patch or try to reproduce a bug.\nIn the past, when you wanted to contribute to CPython, you had to use the bug tracker interface and send a patch, this patch was reviewed if you were lucky and after commented etc\u2026. but this process was really long and time consuming.\nNow with the new process based on GitHub and Git, you can create a new branch on your local repository and just send a Pull Request. The Pull Request is just awesome, it will be reviewed really quickly, we will comment your Pull Request and if the code is correct and the tests pass, then you PR will be merged in CPython.\nWe love and need your Pull Requests for CPython. \nAudience\nFor new comers to CPython and the future contributors and of course for the regular contributors and core-dev of CPython.\nWith this migration to GitHub, I will show the work done by the migration team, the benefits of this migration and the new tools/workflow. Few tools have been developed to help the core-dev. \nFor example, Miss Islington has been developed for an automatic back-port of a branch from Python \u2018master\u2019 to Python 3.6 or 3.5, just with a \u201clabel\u201d on the Pull Request\nI will show some stats about the contributors and the contributions on the CPython project. For example, in November 2017, 4207 pull requests from the community since the migration in Feb 2017.\nThe talk is explained with a story \u201cOnce upon a time\u201d and with humour. \nOutline\n\nIntroduction\n\nsmall history about the beginning of Python, the status and the challenges.\n\nFormer workflows, former tools: \n\nthe CLA (PSF Contributor Agreement)\nthe bug tracker\npatch review with the Rietveld tool\ntypical workflow\nconclusion: We have an issue for the new comers\n\nNew workflow, new tools\n\nGit, why?\nGithub, why?\n\nWeb interface, Pull Requests, Dashboards\nREST API, GraphQL API for the statistics\n\nAutomation with Travis, AppVeyor\nNew Bots: Bedevere, Miss Islington, \u201cThe Knights who say ni!\u201d\nNew tool: Blurb\n\nComparison between the former and new workflow \nStatistics (between Feb 2017, and Nov 2017)\n\nNumber of Pull Requests (4204)\nNumber of Contributors (586) vs Core Dev\nMerge time, Top, Average, etc\u2026.\n\nQ&A ?\n\nAdditional notes\nThis talk has been presented at PyCon Canada in November 2017 at Montreal in front of two core-devs of Python, Brett Cannon and Mariatta Wijaya. Also reviewed by Victor Stinner core-dev python\nMy talk has been shared on the python-dev mailing list by Victor Stinner: https://mail.python.org/pipermail/python-dev/2017-December/151051.html because the statistics were interesting for the core-dev.\nPresentation at PyCon Canada 2017: https://2017.pycon.ca/schedule/4/\nSlides: https://speakerdeck.com/matrixise/cpython-loves-your-pull-requests\nMy experience, speaker at\nPyCon Canada 2015, 2016 and 2017\nPython FOSDEM 2013, 2014, 2015 and 2017\nPyCon Ireland 2015, 2016, and 2017\nPyCon France 2012, 2014, 2016, 2017\nPyCon UK 2015\nEuroPython 2015, 2016 and 2017.\nMontreal Python September 2015 and November 2017.\nOrganizer of Python FOSDEM (+- 600 people) in Belgium\nCo-Organizer of EuroPython 2015, 2016 and 2017 (as member of the Web workgroup).\nFellow Member of the Python Software Foundation since 2013\nMember of the Fellow Workgroup for the PSF\nMember of the Marketing Workgroup for the PSF\nOf course, contributor of CPython, mainly on Devguide and sometimes on the main repository with some fixes, new features.\nFor my contribution to the migration of Python. https://mail.python.org/pipermail/python-committers/2017-February/004220.html\nOthers presentations where I explain the interpreter and the bytecode of Python\nhttps://speakerdeck.com/matrixise/architecture-of-cpython-part-1\nhttps://speakerdeck.com/matrixise/exploring-our-python-interpreter \n\n",
+        "end": 1524321000.0,
+        "speakers": [
+            "St\u00e9phane Wirtel"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/stephane-wirtel"
+        ],
+        "start": 1524318300.0,
+        "summary": "CPython loves your Pull Requests",
+        "track": "PyCommunity",
+        "uid": "https://www.pycon.it/p3/event/2116"
+    },
+    {
+        "desc": "\nIn questo talk, pensato principalmente per neofiti o per chi vuole approfondire le sue conoscenze di base su Python, introdurr\u00f2 brevemente diversi argomenti, cercando di dare consigli utili, dritte sul modo migliore di scrivere alcuni pezzi di codice e presentandovi strumenti all\u2019avanguardia. Nessun requisito particolare \u00e8 richiesto.\nTramite una serie di esempi, piccoli problemi e soluzioni, vi mostrer\u00f2 molti oggetti che possono fare una grossa differenza nel vostro percorso di crescita (e nel vostro codice!). Non temete, per\u00f2, la quantit\u00e0 di argomenti trattati: \u00e8 possibile che ne conosciate gi\u00e0 una buona parte e l\u2019obiettivo \u00e8, prima di tutto, dare qualche direzione verso nuovi orizzonti. Lo spirito di questo talk non \u00e8 di diventare esperti in un solo argomento, ma di imparare qualche nuova nozione, e vedere qualche \u201csnippet\u201d, che possa rendere pi\u00f9 veloce e divertente scrivere codice in Python.\nUna succosa zuppa di Python, con dentro molti ingredienti, ma che formano un piatto gustoso a palati diversi. Un esempio di cosa assaggerete? Venv, testing, tips, iteratori, builtins e una spolveratina di zen-zero!\n\n",
+        "end": 1524323700.0,
+        "speakers": [
+            "Alessandro Re"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/alessandro-re"
+        ],
+        "start": 1524321000.0,
+        "summary": "Una zuppa di Python",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2140"
+    },
+    {
+        "desc": "\nIn web development, an isomorphic application is one whose code (in this case, JavaScript) can run both in the server (in this case, Django) and the client. \nIn this talk we will understand how it works and why it can be useful in the daily life.\nThis talk is for developers (both backenders and frontenders) who believe in \u201cDRY\u201d and will love to learn something new.\n\n",
+        "end": 1524323700.0,
+        "speakers": [
+            "Mattia Larentis"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/-626"
+        ],
+        "start": 1524321000.0,
+        "summary": "Going Isomorphic with Django and React",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2133"
+    },
+    {
+        "desc": "\nIn modern automated systems (Interactive Voice Response, help chatbots, routing systems, etc.) it is very often important to be able to predict what is the most likely next step for the current user. One way of addressing this issue is using sequence algorithms such as Markov Chains. \nAfter a quick introduction to the concept of Markov chains and Markov processes, we will explore the basics and the implementation of a simple High Order Markov chain to predict what the most likely next state in a sequence, based on previous states.\nWe will be using anonymized real-life data of an automated system and we will try to come up with a model that can give us the most probable next state using Markov chains of different orders.\nThings we will see in detail:\n - Mathematics and rationale behind Markov Chains;\n - Basic implementation of First Order Markov Chains;\n - Implementation of High Order Markov Chains;\n - Real life application of the developed model.\nAn undergraduate level of understanding of Linear Algebra and basic Python skills will be useful to follow the talk.\n\n",
+        "end": 1524323700.0,
+        "speakers": [
+            "Pietro Mascolo"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/pietro-mascolo-1"
+        ],
+        "start": 1524321000.0,
+        "summary": "Predicting future states using High Order Markov Chains",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2200"
+    },
+    {
+        "desc": "\nTL;DR\nWhen you go full Big Data at public data and become a citzen.\nAudience type: developers, data scientists of any level of expertise. \nAfter a political coup Brazil drowned in scandals and political disbelief. That was the final straw for us. \nWe created a bot persona who uses Machine Learning to analyze public spending, launching our own data journalism investigations. \nAs expected we use the internet publicize our findings and icing on it was to use Twitter to directly engage the public and politicians under the topic of suspicious expenses.\nCome with me and I\u2019ll show some figures from Brazilian corruption, share some code and cherry-pick the best of our toolbox to deal with public data and machine learning. I\u2019ll introduce our public dashboard that makes visualization and browsing government data easy peasy.  And surely we can take a look in some tweets from Rosie, the robot, and how some politicians are now vociferating with a ROBOT on social media.\nAnd you guessed it right: everything is open-source and our mission is to create a global community to bring democracy to the A.I. age.\n\n",
+        "end": 1524323700.0,
+        "speakers": [
+            "Felipe Cabral"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/felipe-cabral"
+        ],
+        "start": 1524321000.0,
+        "summary": "Using Python to bring democracy to the A.I. age",
+        "track": "PyDataTwo",
+        "uid": "https://www.pycon.it/p3/event/2112"
+    },
+    {
+        "desc": "",
+        "end": 1524330000.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524323700.0,
+        "summary": "chillin'time",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2165"
+    },
+    {
+        "desc": "",
+        "end": 1524333600.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524330000.0,
+        "summary": "PyFiorentina!",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2063"
+    },
+    {
+        "desc": "",
+        "end": 1524373200.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524371400.0,
+        "summary": "Registration",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2171"
+    },
+    {
+        "desc": "",
+        "end": 1524373200.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524371400.0,
+        "summary": "Registration",
+        "track": "DjangoGirls",
+        "uid": "https://www.pycon.it/p3/event/2207"
+    },
+    {
+        "desc": "\nPython 3.0 was released 10 years ago. It\u2019s time to look back: analyze the migration from Python 2 to Python 3, see the progress we made on the language, list bugs by cannot be fixed in Python 2 because of the backward compatibility, and discuss if it\u2019s time or not to bury Python 2. Python became the defacto language in the scientific world and the favorite programming language as the first language to learn programming.\n\n",
+        "end": 1524375900.0,
+        "speakers": [
+            "Victor Stinner"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/victor-stinner"
+        ],
+        "start": 1524373200.0,
+        "summary": "Python 3: 10 years later - Looking back at Python evolutions of the last 10 years ",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2217"
+    },
+    {
+        "desc": "",
+        "end": 1524399300.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524373200.0,
+        "summary": "DjangoGirls",
+        "track": "DjangoGirls",
+        "uid": "https://www.pycon.it/p3/event/2159"
+    },
+    {
+        "desc": "\nPython is very well known for its ecosystem of mature scientific computing packages. They range from low-level providers of generic functionality like NumPy to very domain specific tools like scikit-learn. A few years back, machine learning frameworks could be easily classified into the second category, but this is changing now. They become increasingly powerful and start to be applied in a whole variety of settings different than their original purpose.\n<br><br>\nIn this talk, I\u2019ll present a basic tour of PyTorch, a relatively new library that has already gathered a significant user base. I\u2019ll describe features useful both in machine learning and other domains, explain how it fits into the Python landscape, and showcase scenarios where it provides benefits over existing tools.\n\n",
+        "end": 1524378600.0,
+        "speakers": [
+            "Adam Paszke"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/adam-paszke"
+        ],
+        "start": 1524375900.0,
+        "summary": "PyTorch: a modern scientific computing library for Python",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2215"
+    },
+    {
+        "desc": "",
+        "end": 1524379500.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524378600.0,
+        "summary": "PyCon Italia Meets Concordia",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2065"
+    },
+    {
+        "desc": "",
+        "end": 1524381300.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524379500.0,
+        "summary": "Coffee Break",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2064"
+    },
+    {
+        "desc": "\nUno dei pochi svantaggi di python \u00e8 la difficolt\u00e0 di distribuire applicazioni stand alone binarie sviluppate in python.\nIn questa talk mostreremo come \u00e8 possibile pachettizzare applicazioni python generando un singolo file eseguibile per ciascuna piattaforma desktop: windows, linux e mac.\nPartiremo da un semplice hello world, fino ad arrivare ad applicazioni sempre pi\u00f9 complesse.\nVerranno introdotti i tool a disposizione per python per la combinazione di pi\u00f9 file in un unico script (stickytape), l\u2019offuscamento e la minificazione (pyminifier, Nuitka),  la compilazione in un singolo file (PyInstaller, cx_Freeze).\nPrerequisiti: Conoscenza base di python e virtualenv\n\n",
+        "end": 1524384000.0,
+        "speakers": [
+            "Gabriele Franch"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/gabriele-franch"
+        ],
+        "start": 1524381300.0,
+        "summary": "Pacchettizzare applicazioni python in un singolo file binario",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2145"
+    },
+    {
+        "desc": "\nSummary\nIn this talk, we discuss Facebook\u2019s graphql standard, an a la carte way for front end clients to consume data from the backend, the python implementation of that standard (graphine), basic queries and mutations, and some advanced techniques. We\u2019ll work up from shared principals with traditional REST web services to the new paradigm of data specific to each client request and how this makes backend and frontend developers happier and more productive.\nAudience Experience\nIntermediate (requires some knowledge of Python, Django, REST web services, etc. But will try to build a shared understanding of the core concepts).\nDuration\n45 minutes\n\nintro, who am I. 5 minutes\nwhat is graphql, starting from traditional web services (5 minutes)\n\u200ehigh level benefits of graphql (5 minutes - ex. data tailored per client request, static typing )\n\u200eanatomy of a query and mutation (5 minutes)\n\u200efront end clients and their benefits (5 minutes, including relay)\n\u200eadvanced graphql techniques (10 minutes, including static type contact testing and prepared queries)\n\u200eQ&A (10 minutes)\n\n\n",
+        "end": 1524384000.0,
+        "speakers": [
+            "David Anderson"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/david-anderson"
+        ],
+        "start": 1524381300.0,
+        "summary": "Choose Your Own Adventure for Client Web Services with GraphQL",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2154"
+    },
+    {
+        "desc": "\nA tutorial for intermediate Python developers with none or little knowledge about Machine Learning.\nAfter presenting an existing dataset and giving a bit of context about the problem, I will show step by step how to analyse it, train a supervised classification model, optimise it and make predictions.\nDuring the tutorial we will make use of the following libraries and tools: pandas, jupyter, matplotlib, numpy, scikit-learn, scipy.\nEven if it won\u2019t be possible to follow each singular attendee, it\u2019s strongly suggested to have a laptop ready with Python 3 installed and a virtual environment properly configured and ready to be used. In this way attendees will have the possibility to try the shown code and examples.\n\n",
+        "end": 1524384000.0,
+        "speakers": [
+            "Andrea Grandi"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/andrea-grandi"
+        ],
+        "start": 1524381300.0,
+        "summary": "Practical Machine Learning with Python and scikit-learn",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2149"
+    },
+    {
+        "desc": "\nTitolo\nCrea da zero un clone di Bitcoin, usando la libreria standard di Python 3 e asyncio.\nLivello dell\u2019audience\nSviluppatori Python con conoscenze base del linguaggio.\nBreve descrizione\nRichard Feynman ha scritto: \u201cQuello che non riesco a creare, non posso capire\u201d. In questo workshop costruiremo da zero un clone di Bitcoin, usando solo la libreria standard di Python. Implementeremo tutti i suoi componenti fondamentali: un sistema rudimentale di cifratura asincrona, una rete peer-to-peer usando asyncio, proof-of-work, e la nostra moneta appena coniata \u201cPycoin\u201d. Durante l\u2019evento spiegheremo tutti i concetti chiave delle criptomonete in termini semplici e con esercizi pratici. Tutto ci\u00f2 che \u00e8 richiesto \u00e8 un computer, un cervello, e una conoscenza base del linguaggio Python.\nAbstract / Riepilogo\nTutti parlano di Bitcoin e Blockchain, ma quanti capiscono di cosa si tratta veramente? Questo workshop vuole essere un tour de force dei concetti e delle tecnologie fondamentali, spiegate con esercizi pratici e divertenti. I partecipanti partiranno da zero, inizialmente con un network peer-to-peer per scambiarsi messaggi testuali, arrivando infine ad implementare un sistema sicuro per trasferire valore simbolico. Parleremo di cultura Cypherpunk, stazioni numeriche, e molto altro ancora\u2026\n\nObiettivi: alla fine di questo workshop avrai acquisito una conoscenza approfondita del protocollo Bitcoin e di come funzionano le Blockchain. \nPrerequisiti: un computer con Python 3 installato e un editor di testo.\nStrategia: i partecipanti realizzeranno da zero un client peer-to-peer minimale per scambiarsi criptomonete, ispirato al famoso whitepaper dello spettrale Satoshi Nakamoto. Il client verr\u00e0 realizzato e testato in modo incrementale.\nAgenda:\n\nCos\u2019\u00e8 il denaro?\nI network peer-to-peer\nLa crittografia asimmetrica\nLe transazioni\nLa Blockchain\nIl proof-of-work\nIl consenso distribuito\n\n\n\n",
+        "end": 1524395700.0,
+        "speakers": [
+            "Rigel Di Scala"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/rigel-di-scala"
+        ],
+        "start": 1524381300.0,
+        "summary": "Crea da zero un clone di Bitcoin in Python",
+        "track": "TrainingTwo",
+        "uid": "https://www.pycon.it/p3/event/2161"
+    },
+    {
+        "desc": "\nThis tutorial is an overview of intermediate topics in time series analysis most likely to be encountered in common scenarios, such as analyzing biosensor data, making business demand predictions, or protecting a website from fraudulent activity. This tutorial assumes an audience familiar with basic time series analysis and is intended as a follow-up to a 2016 PyCon tutorial introducing the fundamentals of time series analysis.\nOutline & Timing:\n\nOnline analysis of time series data \u2013 30 minutes\na.     Introduction to the concept of online analysis and a bit of history \u2013 10 minutes\nb.     Online estimation of statistical properties \u2013 10 minutes\nc.     Online anomaly detection \u2013 10 minutes\nBayesian forecasting \u2013 20 minutes\na.     Introduction to Bayesian thinking \u2013 5 minutes\nb.     How to do a Bayesian forecast and what it means \u2013 15 minutes\nMarkov processes \u2013 40 minutes\na.     Introduction to Markov processes \u2013 5 minutes\nb.     Simulating Markov processes and how these simulations are used \u2013 15 minutes\nc.     Hidden Markov Models \u2013 20 minutes\nBreak \u2013 10 minutes\nNeural networks \u2013 90 minutes\na.     Brief overview of convolutional neural networks \u2013 10 minutes\nb.     Applying convolutional neural networks to time series classification \u2013 30 minutes\nc.     Brief overview of recursive neural networks \u2013 15 minutes\nd.     Applying recursive neural networks to time series prediction \u2013 35 minutes\n\nWith respect to teaching strategies, the emphasis is on hands on learning, so that at least half the time should involve tutorial attendees writing their own code. Coding work can be done in small groups or individually. For some sense of my teaching style, you can look at some of my previous tutorials, e.g. https://www.youtube.com/watch?v=JNfxr4BQrLk&t=3s.\nTools used will include Keras, Tensorflow, Numpy, scikit-learn, hmmlearn, & scipy\n\n",
+        "end": 1524395700.0,
+        "speakers": [
+            "Aileen Nielsen"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/aileen-nielsen"
+        ],
+        "start": 1524381300.0,
+        "summary": "Modern time series analysis in Python",
+        "track": "TrainingOne",
+        "uid": "https://www.pycon.it/p3/event/2160"
+    },
+    {
+        "desc": "\nIn my talk I will introduce a new pytest plugin with which it is very easy (even for non-technical) go to create and run new integration testing at any level of IOT complex systems.\npytest-play is a pytest plugin that allows you to play a JSON file that describes some actions and assertions. We can use actions like: \n- Selenium, driving the browser for the UI test \n- MQTT messages, simulating a device \n- API calls \n- queries to Cassandra or PostgresSQL (in the future) \n- custom commands, thanks to the pluggable architecture \nOther advantages: \n- UI tests more reliable with implicit waits before interacting with the elements \n- BDD support to make the scenario more legible \n- reusability of steps\nI will show you how easy it is to create a json and execute it on the fly on a Continuous Integration system. So let\u2019s start having fun in testing with pytest-play.\nReferences:\n\n",
+        "end": 1524386700.0,
+        "speakers": [
+            "Serena Martinetti"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/serena-martinetti"
+        ],
+        "start": 1524384000.0,
+        "summary": "Integration tests ready to use with pytest-play",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2144"
+    },
+    {
+        "desc": "\nLe specifiche poco chiare o approssimative sono una delle piaghe degli sviluppatori, e portano all\u2019odioso fenomeno dei task non accettati o rimandati indietro etichettati come BUG.\nSpesso, tuttavia, non c\u2019\u00e8 proprio nulla di rotto ma solo una serie di incomprensioni dovute alla scarsa qualit\u00e0 dell\u2019analisi, che provocano, generalmente, molta frustrazione in chi ha scritto il codice.\nNel corso del talk vedremo come tutto questo sia evitabile grazie all\u2019approccio BDD, all\u2019utilizzo di User Stories con Acceptance Tests scritti usando il linguaggio Gherkin e all\u2019esecuzione di test automatici.\nIn pi\u00f9, mostreremo una applicazione pratica su un progetto Django usando Behave con behave_django e Selenium con splinter.\n\n",
+        "end": 1524386700.0,
+        "speakers": [
+            "Filippo Morelli",
+            "Gabriele Giaccari"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/filippo-morelli",
+            "https://www.pycon.it//conference/p/gabriele-giaccari-3"
+        ],
+        "start": 1524384000.0,
+        "summary": "Dalla User Story al test automatico in Django: un percorso step by step per dormire sonni tranquilli",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2155"
+    },
+    {
+        "desc": "\nCan\u2019t distinguish your Latitude from your Longitude? Are you convinced that Dymaxion Projection is the name of an obscure Heavy Metal band?  Have troubles finding your way back home even with a GPS? Congratulations, this talk is definitely for you!\nWhile location data are increasingly part of our lives as developers, and Data Science jobs requiring at least a basic understanding of \u201cgeographic stuff\u201d are on the rise, there\u2019s still plenty of confusion surrounding  spatial formats, tools and libraries\u2026 \nAssuming no prior knowledge of geographic concepts, this talk with cover all the basics  (including the most common tools such as GeoPandas, PySal, Bokeh etc..) to handle, analyse and visualise Geospatial data!\n\n",
+        "end": 1524386700.0,
+        "speakers": [
+            "Michele Ferretti"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/michele-ferretti"
+        ],
+        "start": 1524384000.0,
+        "summary": "Location, location, location:  Data Visualisation and Analysis of Geospatial data in Python",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2185"
+    },
+    {
+        "desc": "\nI generatori sono una delle caratteristiche pi\u00f9 avanzate di Python ma anche meglio integrate con le altre parti del linguaggio e con una sintassi molto simile ad altri costrutti. In particolare Python 3 fa un utilizzo pi\u00f9 esteso dei generatori anche nelle funzioni base e ne semplifica ulteriormente l\u2019uso. In questa presentazione illustrerei il funzionamento delle funzioni generatrici e dei generatori partendo dalle basi dell\u2019iterazione. Analizzerei inoltre i vantaggi che i generatori possono portare nella semplificazione del codice e nella riduzione dell\u2019uso di memoria, con degli esempi di codice e di misura delle prestazioni e delle risorse utilizzate. Come esempio conclusivo presenterei un modulo per il parsing di XPath, completamente basato sui generatori.\n\n",
+        "end": 1524389400.0,
+        "speakers": [
+            "Davide Brunato"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/davide-brunato"
+        ],
+        "start": 1524386700.0,
+        "summary": "Il rasoio dei generatori di Python per semplificare il codice e ridurre l'uso di memoria",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2189"
+    },
+    {
+        "desc": "\nFreeradius \u00e8 il server Radius open source pi\u00f9 popolare e diffuso al mondo e supporta tutti i protocolli di autenticazione pi\u00f9 comuni. \nPer renderne pi\u00f9 agevole l\u2019utilizzo, all\u2019interno della comunit\u00e0 OpenWISP \u00e8 stato deciso di sviluppare django-freeradius. \nSi tratta di un\u2019interfaccia web per gestire i database Freeradius basata su Django che si avvale delle RESTful API per gestire l\u2019autorizzazione, la post autenticazione e l\u2019accounting di freeradius. \nDjango-freeradius \u00e8 un\u2019 app riutilizzabile ed estensibile.\nIn questo talk vi parler\u00f2 di come ho implementato questo primo nucleo di django-freeradius durante il Google Summer of Code 2017. \nLo scopo di questo talk \u00e8 di presentare le potenzialit\u00e0 di django-freeradius, inoltre verr\u00e0 mostrato un caso d\u2019uso e le informazioni necessarie per poterlo installare e utilizzare nella vostra infrastruttura.\nIl talk \u00e8 rivolto a sviluppatori web con esperienza in django e/o a programmatori con conoscenze di freeradius.\n\n",
+        "end": 1524389400.0,
+        "speakers": [
+            "Fiorella De Luca"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/fiorella-de-luca"
+        ],
+        "start": 1524386700.0,
+        "summary": "Django-freeradius",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2156"
+    },
+    {
+        "desc": "\nIn this talk, the audience will learn how to build from scratch with Python machine learning models for predicting spatiotemporal activities in cities using location data.\nThe growing availability of data from cities (e.g., traffic flow, human mobility and geographical data) opens new opportunities for predicting and thus optimizing human activities. These may include human mobility, land use classification, event detection and location recommendation.\n\nHow do we characterize the main activity of an area (e.g. Business, Commercial, Nightlife)? \n\nHow to detect and forecast unusual spatiotemporal events (e.g. protest, sport game, concert)? \nHow to understand why people are moving between places? \n\n\nThis talk will try to answers these questions explaining how, making use of Python, it is possible to (i) collect and aggregate geo-located data; and (ii) build machine learning models to predict spatiotemporal activities. For example, an unusual activity in a local area at a specific time can be predicted by analyzing the text from geo-located tweets. \nFirstly, we will present an organized picture of geo-located data such as mobile phone data, geo-located texts from social networks (e.g. Foursquare and Twitter), census and Open Street Map. Then, we will briefly discuss how to collect and aggregate such data using Python packages such as GeoPandas and OSMnx. Finally, we will cover topics related to cities activities including event detection and forecasting, human mobility, and location recommendation and prediction.\nAs location data, we will mostly use samples from Open Street Map and Foursquare. The example code will make use of (basics) Pandas and GeoPandas. However, this is a beginner talk and it will be self-contained as much as possible.\n\n",
+        "end": 1524389400.0,
+        "speakers": [
+            "Gianni Barlacchi"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/gianni-barlacchi"
+        ],
+        "start": 1524386700.0,
+        "summary": "What's going on there? Understanding cities with location data.",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2190"
+    },
+    {
+        "desc": "",
+        "end": 1524393900.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524389400.0,
+        "summary": "Lunch",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2066"
+    },
+    {
+        "desc": "\nThe Blockchain technology is an ingenious invention that has gained a lot of momentum and public attention in the recent years.\nIn this talk we are going to review the basic concepts behind this technology, starting from its very first conception: The Bitcoin blockchain. We will discover what problems Bitcoin was able to solve, like decentralized consensus and secure money transfer, and what are its fundamental limitations, like the lack of a Turing-complete scripting language and state management that are necessary to build complex decentralized applications.\nWe will then discuss how the Ethereum project tries to overcome these limitations introducing the Turing complete Ethereum Virtual Machine and advanced Smart Contracts, giving developers the power to build any kind of applications on top of the Ethereum blockchain.\nThe Blockchain has the potential to become pervasive within our society, any centralized service can now be decentralized using Ethereum or related implementations. We will look into some real case scenarios where this technology is already deployed and other where it could have a great impact.\nMany of the tools to interact and develop with the Ethereum blockchain are built with Python. We will learn which are the basic tools used to run a blockchain locally on our laptops going through the installation and preparation process to get a full Ethereum node up and running on our local machine.\nSerpent is one of the languages of choice when building Smart Contracts in Ethereum and it is heavily inspired by Python. We will learn how to write a simple Smart Contract, deploy it to our local running blockchain and mine it to make it valid.\n\n",
+        "end": 1524396600.0,
+        "speakers": [
+            "Stefano Fioravanzo"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/stefano-fioravanzo-1"
+        ],
+        "start": 1524393900.0,
+        "summary": "A primer on the Ethereum Blockchain and Smart Contracts using Python and Serpent",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2192"
+    },
+    {
+        "desc": "\nLe innovazioni portate dal paradigma serverless sono ormai un\u2019alternativa concreta allo sviluppo di servizi monolitici. L\u2019idea \u00e8 quella di poter pubblicare, nel Cloud, funzioni e pezzi di codice che vengono invocati automaticamente al verificarsi di certi eventi, con scalabilit\u00e0 orizzontale e senza doversi preoccupare della gestione dello stack tecnologico sottostante. \nNel corso di questo talk vedremo:\n\nla pi\u00f9 breve introduzione al Cloud Computing del mondo;\ncosa sono i microservizi e come funzione il paradigma serverless;\nquali sono i casi d\u2019uso che beneficiano di pi\u00f9 da questo paradigma;\ncome costruire un\u2019applicazione serverless in Python con i componenti di Amazon Web Services (Lambda, API Gateway, DynamoDB, S3\u2026);\ncome coordinare l\u2019esecuzione del nostro codice Python (AWS Step Functions);\ncome rendere tutto ancora pi\u00f9 semplice e ripetibile con l\u2019uso di framework specifici (Chalice, Serverless)\n\n\n",
+        "end": 1524396600.0,
+        "speakers": [
+            "Federico Caboni"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/federico-caboni"
+        ],
+        "start": 1524393900.0,
+        "summary": "Serverless Computing con Python e AWS: Redux",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2157"
+    },
+    {
+        "desc": "\nIl Talk \u00e8 rivolto a sviluppatori Python intermedi. Non \u00e8 richiesta nessuna conoscenza su Elasticsearch.\nNell\u2019introduzione presenteremo le librerie elasticsearch-py e elasticsearch-dsl introducendo i concetti base di ElasticSearch. Saranno prima presentate le metodologie di indicizzazione per ottimizzare la ricerca su grandi quantit\u00e0 di dati, mostrando come inserire i propri dati nel motore di ricerca.\nDopo passeremo alle query (dal text search alle geo queries ) e relative aggregazioni, facendo vedere come estrarre informazioni dai dati in maniera veloce e migliorare cos\u00ec la user experience. \nIn seguito saranno presentate funzionalit\u00e0 di ricerca avanzate, spiegando come arricchire le proprie webapp con le funzionalit\u00e0 dinamiche di \u201csearch as you type\u201d, autocompletamento e suggerimento. \nInfine mostreremo come utilizzare tecniche di Data Analytics avanzate come il NLP: analizzando i testi sar\u00e0 possibile fare \u201clanguage detection\u201d, \u201ctext classification\u201d e \u201ckeyword extraction\u201d. In tal modo non solo si pu\u00f2 trovare velocemente cosa si sta cercando, ma analizzare commenti e recensioni per capire se i clienti sono soddisfatti.\n\n",
+        "end": 1524396600.0,
+        "speakers": [
+            "Dario Balinzo"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/dario-balinzo"
+        ],
+        "start": 1524393900.0,
+        "summary": "Python e Elasticsearch:  dal Text Search a NLP e oltre",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2204"
+    },
+    {
+        "desc": "\nReinforcement learning is a sequential decision making framework that has received a lot of attention given incredible results from DeepMind, DQN and AlphaGo. More recently DeepMind delivered a more general AI game player call AlphaZero, which learns by self-play.\nDuring this session we will introduce you the key ideas behind AlphaZero:\n\nReinforcement Learning and Value function\nMonteCarlo Tree Search\nSelf-play\n\nWe will explore how they contribute to beat greatest Go  player of our time, in Python.\nAgenda:\n\nIntroduction to AI in games\nWhat AlphaZero is made of? (Boring theory)\nHow to build your own AlphaZero? (Cool code)\n\n\n",
+        "end": 1524399300.0,
+        "speakers": [
+            "Simone Totaro",
+            "Manuel Del Verme"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/-953",
+            "https://www.pycon.it//conference/p/-954"
+        ],
+        "start": 1524396600.0,
+        "summary": "(Alpha) Zero to Elo",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2218"
+    },
+    {
+        "desc": "\nContinuous Delivery is the automation of our deployment and QA, isn\u2019t it? The industrialized software production chain that solves all our problems. Well, kind of. It\u2019s more than that. Because: You still have pain when \u2026\n\nYou bring new developers on board (e.g. for installing Docker and friends, IDEs and command line tools).\nYour development machine behaves weird or needs an upgrade. (Can you simply re-install it and continue working without losing a day or a week of productivity?)\nYou need to explain to your colleagues, or even convince them, how to configure which of their tools?\nEveryone turns to you (or your admin wizard) when there are troubles to get some tools or projects running.\n\nThis talks explains how to bootstrap a super-efficient startup, SMB, or just any development team that needs a development infrastructure. You\u2019ll see a demo of The Foreman, Puppet, Ansible and optionally FreeIPA and virtualization technology, which gets you from zero to 100 in just a few hours. This talk explains how you do infrastructure like software development. Everything under control. Everything under version control.\nCome join the show, and take home the recipe that tells you how to step up the next level of Continuous Delivery! - If you\u2019re a beginner fear not: this talk starts with an introduction to CI/CD and brings you up to speed quickly.\n\n",
+        "end": 1524399300.0,
+        "speakers": [
+            "Peter Bittner"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/peter-bittner"
+        ],
+        "start": 1524396600.0,
+        "summary": "Continuous Delivery starts at your Development Environment",
+        "track": "PyWeb / DevOps",
+        "uid": "https://www.pycon.it/p3/event/2158"
+    },
+    {
+        "desc": "\nAudience: beginner\nDescription\nThe goal of this talk is to explain how Athena, a serverless sql-like query service provided by Amazon\u2019s AWS, combined with a Python library called PyAthena, made it possible to store and query as much data as needed with low costs, high performances and in a Pythonesque way.\nAbstract\nWe found ourselves in a sticky situation: for monitoring and debugging reasons we had the need to store a large amount of data (around 200 million rows), trying not to spend the entire year\u2019s budget but still managing to efficiently query the data in an interactive setting. With such Big Data, we could not simply resort to Data Science tools like Pandas and hope for the best.\nOur first idea was to just shove it all in our Postgres DB: since both data and database were stored on Amazon\u2019s AWS infrastructure, all we had to do was to write ad-hoc import and update queries. Sadly, our poor Postgres machine took the hit, and was not able to respond to our requirements without greatly increasing our costs. \nThen we found out about Athena: a serverless, Presto-based, sql compliant database, that reads directly from S3 folders and creates a virtual table on which you can run sql queries. Using Python\u2019s Athena library (PyAthena) our query execution time dropped from hours to seconds, we simplified the infrastructure and decreased our costs, without the need to pay and maintain a dedicated server.\nIn this talk we will show why Athena was the right solution for our use case and present its Python library with its functionalities.\n\n",
+        "end": 1524399300.0,
+        "speakers": [
+            "Daniela Scardi"
+        ],
+        "speakers_pages": [
+            "https://www.pycon.it//conference/p/daniela-scardi"
+        ],
+        "start": 1524396600.0,
+        "summary": "Serverless SQL queries from Python with AWS Athena...or power to Data Scientists!",
+        "track": "PyData",
+        "uid": "https://www.pycon.it/p3/event/2153"
+    },
+    {
+        "desc": "",
+        "end": 1524401100.0,
+        "speakers": [],
+        "speakers_pages": [],
+        "start": 1524399300.0,
+        "summary": "Goodbye and Closing",
+        "track": "Python&Friends",
+        "uid": "https://www.pycon.it/p3/event/2067"
+    }
+]
